@@ -1,0 +1,104 @@
+package bg.softuni.fundamentals.Lists;
+
+
+import java.util.*;
+import java.util.stream.Collectors;
+
+public class Demo {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        List<Integer> numbers = Arrays.stream(scanner.nextLine().split("\\s+"))
+                .map(Integer::parseInt).collect(Collectors.toList());
+
+        String input = scanner.nextLine();
+        while (!"End".equals(input)) {
+            String[] tokens = input.split("\\s+");
+            String command = tokens[0];
+            switch (command) {
+                case "Add":
+                    numbers.add(Integer.parseInt(tokens[1]));
+                    break;
+                case "Insert":
+                    int index = Integer.parseInt(tokens[2]);
+                    if (index >= 0 && index < numbers.size()) {
+                        numbers.add(index, Integer.valueOf(tokens[1]));
+                    } else {
+                        System.out.println("Invalid index");
+                    }
+                    break;
+                case "Remove":
+                    index = Integer.parseInt(tokens[1]);
+                    if (index >= 0 && index < numbers.size()) {
+
+                            numbers.remove(index);
+
+                    } else {
+                        System.out.println("Invalid index");
+                    }
+                    break;
+                case "Shift":
+                    String direction = tokens[1];
+                    int cout = Integer.parseInt(tokens[2]);
+                    shift(numbers, direction, cout);
+                    break;
+            }
+
+
+            input = scanner.nextLine();
+        }
+        for (Integer number : numbers) {
+            System.out.print(number + " ");
+        }
+
+
+    }
+
+    private static void shift(List<Integer> numbers, String direction, int cout) {
+        switch (direction) {
+            case "right":
+                for (int i = 0; i < cout; i++) {
+                    int last = numbers.get(numbers.size()-1);
+                    numbers.remove(numbers.size()-1);
+                    numbers.add(0,last);
+                }
+                break;
+            case "left":
+                for (int i = 0; i < cout; i++) {
+                    int first = numbers.get(0);
+                    numbers.remove(0);
+                    numbers.add(first);
+                }
+                break;
+        }
+    }
+
+
+    //List<Integer> numbers = Arrays.stream(scanner.nextLine().split("\\s+"))
+    //                .map(Integer::parseInt).collect(Collectors.toList());
+
+
+    private static List<Integer> parseLineOfNumbers(Scanner scanner) {
+        String line = scanner.nextLine();
+        String[] numbersAsStrings = line.split(" ");
+
+        List<Integer> numbers = new ArrayList<>();
+
+        for (String s : numbersAsStrings) {
+            int number = Integer.parseInt(s);
+            numbers.add(number);
+        }
+        return numbers;
+    }
+
+    private static List<Double> parseDoubleList(Scanner scanner) {
+        String[] input = scanner.nextLine().split(" ");
+        List<Double> nums = new ArrayList<>();
+
+        for (int i = 0; i < input.length; i++) {
+            double num = Double.parseDouble(input[i]);
+            nums.add(num);
+
+        }
+        return nums;
+    }
+}
