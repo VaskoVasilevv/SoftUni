@@ -1,0 +1,17 @@
+import java.util.*;
+public class BonusScoringSystem {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int students=Integer.parseInt(scan.nextLine());
+        int lectures=Integer.parseInt(scan.nextLine());
+        int additionalBonus= Integer.parseInt(scan.nextLine());
+        List<Double> bonusList=new ArrayList<>(); double max=0;
+        for (int i = 0; i <students ; i++) {
+            double attendances=Double.parseDouble(scan.nextLine());
+            if(attendances>max){ max=attendances;}
+            bonusList.add((attendances/lectures)*(5+additionalBonus));
+        }
+        System.out.printf("Max Bonus: %.0f.%n",Math.ceil(Collections.max(bonusList)));
+        System.out.printf("The student has attended %.0f lectures.",max);
+    }
+}
