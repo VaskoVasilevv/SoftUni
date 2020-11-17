@@ -1,0 +1,32 @@
+package bg.softuni.fundamentals.AssociativeArrays;
+
+import java.util.*;
+import java.util.stream.Collectors;
+
+public class Uprajnenie {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        Map<String, Integer> synonyms = new LinkedHashMap<>();
+
+        String[] words = scanner.nextLine().split(" ");
+
+        for (int i = 0; i < words.length ; i++) {
+            String word = words[i].toLowerCase();
+
+
+            if (!synonyms.containsKey(word)){
+                synonyms.put(word,0);
+            }
+            synonyms.put(word,synonyms.get(word)+1);
+
+        }
+        List<String> odds = new ArrayList<>();
+        for (Map.Entry<String, Integer> entry : synonyms.entrySet()) {
+            if (entry.getValue()% 2 == 1){
+                odds.add(entry.getKey());
+            }
+        }
+        System.out.println(String.join(", ",odds));
+    }
+}
