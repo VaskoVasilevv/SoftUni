@@ -1,0 +1,17 @@
+package bg.softuni.fundamentals.TextProcessing;
+
+import java.util.Scanner;
+
+public class Live {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        String path = scanner.nextLine();
+        String file = path.substring(path.lastIndexOf("\\") +1,path.indexOf("."));
+        String extension = path.substring(path.lastIndexOf(".")+1);
+
+        System.out.println("File name: "+ file);
+        System.out.println("File extension: "+ extension);
+    }
+
+}
