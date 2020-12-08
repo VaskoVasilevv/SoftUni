@@ -3,7 +3,7 @@ package bg.softuni.fundamentals.FinalExam;
 
 import java.util.*;
 
-public class demo {
+public class E01PasswordRestWhitStringBuilder {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

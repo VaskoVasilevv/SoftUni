@@ -22,8 +22,9 @@ public class E03AugustPlatDiscovery {
         public String getName() {
             return name;
         }
-        public void  addRating (double rating){
-           this.ratings.add(rating);
+
+        public void addRating(double rating) {
+            this.ratings.add(rating);
         }
         public void setRarity(int rarity) {
             this.rarity = rarity;
