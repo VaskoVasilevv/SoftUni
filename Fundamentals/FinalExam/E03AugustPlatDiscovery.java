@@ -1,4 +1,4 @@
-package bg.softuni.fundamentals.FinalExam;
+package FinalExam;
 
 import java.util.*;
 
@@ -44,6 +44,7 @@ public class E03AugustPlatDiscovery {
             averageRating = averageRating/ this.ratings.size();
             return averageRating;
         }
+
     }
 
     public static void main(String[] args) {

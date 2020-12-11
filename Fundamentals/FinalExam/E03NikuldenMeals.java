@@ -1,4 +1,4 @@
-package bg.softuni.fundamentals.FinalExam;
+package FinalExam;
 
 import java.util.*;
 
