@@ -1,4 +1,4 @@
-package bg.softuni.fundamentals.Basyc.Syntax;
+package Basyc.Syntax;
 
 import java.util.Scanner;
 
