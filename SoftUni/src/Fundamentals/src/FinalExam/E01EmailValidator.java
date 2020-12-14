@@ -1,6 +1,6 @@
 package FinalExam;
 
-
+import java.util.Locale;
 import java.util.Scanner;
 
 public class E01EmailValidator {

@@ -1,4 +1,4 @@
-package Arrays;
+package bg.softuni.fundamentals.Arrays;
 
 import java.util.Scanner;
 

@@ -1,5 +1,6 @@
 package bg.softuni.fundamentals.AssociativeArrays;
 
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;

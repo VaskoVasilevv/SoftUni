@@ -1,4 +1,4 @@
-package bg.softuni.fundamentals.MidEXAM;
+package MidEXAM;
 
 import java.util.Collections;
 import java.util.Scanner;

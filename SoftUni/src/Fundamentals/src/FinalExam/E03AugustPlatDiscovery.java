@@ -56,7 +56,7 @@ public class E03AugustPlatDiscovery {
         for (int i = 0; i < n; i++) {
             String[] nameAndRarity = scanner.nextLine().split("<->");
             Plant p = new Plant(nameAndRarity[0], Integer.parseInt(nameAndRarity[1]));
-            plantsByName.put(nameAndRarity[0], p);
+            plantsByName.put(p.getName(), p);
         }
 
         String command = scanner.nextLine();

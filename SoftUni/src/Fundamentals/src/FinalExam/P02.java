@@ -1,4 +1,4 @@
-package Fundamentals.FinalExam;
+package FinalExam;
 
 import java.util.ArrayList;
 import java.util.List;

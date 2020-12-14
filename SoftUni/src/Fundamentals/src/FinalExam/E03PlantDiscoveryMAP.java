@@ -93,6 +93,7 @@ public class E03PlantDiscoveryMAP {
         if (numbers.isEmpty()) {
             return 0;
         }
+
         double sum = 0;
         for (Integer number : numbers) {
             sum += number;
