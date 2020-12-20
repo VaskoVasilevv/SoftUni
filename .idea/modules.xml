@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SoftUni/src/Advance/Advance.iml" filepath="$PROJECT_DIR$/SoftUni/src/Advance/Advance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoftUni/src/Advance/Advanced.iml" filepath="$PROJECT_DIR$/SoftUni/src/Advance/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/Advance.iml" filepath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/Advance.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUni/src/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/SoftUni/src/Fundamentals/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/JavaAdvanced.iml" filepath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/JavaAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/ProgrammingBasics.iml" filepath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/ProgrammingBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUni/SoftUni.iml" filepath="$PROJECT_DIR$/SoftUni/SoftUni.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUniGit.iml" filepath="$PROJECT_DIR$/SoftUniGit.iml" />
