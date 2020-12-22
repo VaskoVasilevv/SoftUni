@@ -2,40 +2,31 @@ package FinalExam;
 
 import java.util.*;
 
-public class PiratesObject {
-    static class Pirates {
-        String name;
+public class Pirates {
+    static class Pirate {
+        String town;
         int people;
         int gold;
 
-        public Pirates(String name, int people, int gold) {
-            this.name = name;
+        public Pirate(String name, int people, int gold) {
+            this.town = name;
             this.people = people;
             this.gold = gold;
-        }
-
-        public String getName() {
-            return name;
-        }
-
-        public void setName(String name) {
-            this.name = name;
         }
 
         public int getPeople() {
             return people;
         }
 
-
         public int getGold() {
             return gold;
         }
 
-
-        public void reducePeople(int people) {
+        public void addPeople(int people) {
             this.people += people;
         }
-        public void reducePeople2(int people) {
+
+        public void reducePeople(int people) {
             this.people -= people;
         }
 
@@ -53,7 +44,7 @@ public class PiratesObject {
         Scanner scanner = new Scanner(System.in);
 
         String input = scanner.nextLine();
-        Map<String, Pirates> piratesMap = new TreeMap<>();
+        Map<String, Pirate> piratesMap = new TreeMap<>();
         while (!input.equals("Sail")) {
             String[] tokens = input.split("\\|\\|");
             String name = tokens[0];
@@ -63,11 +54,11 @@ public class PiratesObject {
                 System.out.println("Gold added cannot be a negative number!");
                 break;
             }
-            Pirates p = new Pirates(name, people, gold);
+            Pirate p = new Pirate(name, people, gold);
             if (!piratesMap.containsKey(name)) {
-                piratesMap.put(p.getName(), p);
+                piratesMap.put(name, p);
             } else {
-                piratesMap.get(name).reducePeople(people);
+                piratesMap.get(name).addPeople(people);
                 piratesMap.get(name).addGold(gold);
             }
             input = scanner.nextLine();
@@ -76,27 +67,24 @@ public class PiratesObject {
         while (!input.equals("End")) {
             String[] commands = input.split("=>");
             String town = commands[1];
-            switch (commands[0]) {
-                case "Plunder":
-                    int population = Integer.parseInt(commands[2]);
-                    int gold = Integer.parseInt(commands[3]);
-                    piratesMap.get(town).reducePeople2(population);
-                    piratesMap.get(town).reduceGoldGold(gold);
-                        System.out.printf("%s plundered! %d gold stolen, %d citizens killed.%n", town, gold, population);
-                    if (piratesMap.get(town).getGold() <= 0 || piratesMap.get(town).getPeople() <= 0) {
-                        piratesMap.remove(town);
-                        System.out.printf("%s has been wiped off the map!%n", town);
-                    }
-                    break;
-                default:
-                    gold = Integer.parseInt(commands[2]);
-                    if (gold < 0) {
-                        System.out.println("Gold added cannot be a negative number!");
-                    } else {
-                        piratesMap.get(town).addGold(gold);
-                        System.out.printf("%d gold added to the city treasury. %s now has %d gold.%n", gold, town, piratesMap.get(town).getGold());
-                    }
-                    break;
+            if ("Plunder".equals(commands[0])) {
+                int population = Integer.parseInt(commands[2]);
+                int gold = Integer.parseInt(commands[3]);
+                piratesMap.get(town).reducePeople(population);
+                piratesMap.get(town).reduceGoldGold(gold);
+                System.out.printf("%s plundered! %d gold stolen, %d citizens killed.%n", town, gold, population);
+                if (piratesMap.get(town).getGold() <= 0 || piratesMap.get(town).getPeople() <= 0) {
+                    piratesMap.remove(town);
+                    System.out.printf("%s has been wiped off the map!%n", town);
+                }
+            } else {
+                int gold = Integer.parseInt(commands[2]);
+                if (gold < 0) {
+                    System.out.println("Gold added cannot be a negative number!");
+                } else {
+                    piratesMap.get(town).addGold(gold);
+                    System.out.printf("%d gold added to the city treasury. %s now has %d gold.%n", gold, town, piratesMap.get(town).getGold());
+                }
             }
 
 
