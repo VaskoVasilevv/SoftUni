@@ -2,56 +2,49 @@ package Arrays;
 
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 
 public class demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
-        List<String> shoppingList = Arrays.stream(scanner.nextLine().split("!")).collect(Collectors.toList());
-
+        int[] neighborhood = Arrays.stream(scanner.nextLine().split("@")).mapToInt(e -> Integer.parseInt(e)).toArray();
         String input = scanner.nextLine();
-        while (!input.equals("Go Shopping!")) {
+        int lastPosition = 0;
+        while (!input.equals("Love!")) {
             String[] command = input.split(" ");
-            switch (command[0]) {
-                case "Urgent":
-                    String item = command[1];
-                    if (!shoppingList.contains(item)){
-                        shoppingList.add(0,item);
-                    }
-                    break;
-                case "Unnecessary":
-                    item = command[1];
-                    if (shoppingList.contains(item)){
-                        shoppingList.remove(item);
-                    }
-                    break;
-                case "Correct":
-                    String oldItem = command[1];
-                    String newItem = command[2];
-                    if (shoppingList.contains(oldItem)){
-                        int index = shoppingList.indexOf(oldItem);
-                        shoppingList.remove(oldItem);
-                        shoppingList.add(index,newItem);
-                    }
+            if (command[0].equals("Jump")) {
+                int length = Integer.parseInt(command[1]);
+                lastPosition += length;
 
-                    break;
-                case "Rearrange":
-                    item = command[1];
-                    if (shoppingList.contains(item)) {
-                        int index = shoppingList.indexOf(item);
-                        shoppingList.remove(index);
-                        shoppingList.add(item);
+                if (lastPosition >= neighborhood.length) {
+                    lastPosition = 0;
+                }
+                if (neighborhood[lastPosition] != 0) {
+                    neighborhood[lastPosition] -= 2;
+                    if (neighborhood[lastPosition] == 0) {
+                        System.out.printf("Place %d has Valentine's day.%n", lastPosition);
                     }
-                    break;
+                } else {
+                    System.out.printf("Place %d already had Valentine's day.%n", lastPosition);
+                }
+
             }
 
             input = scanner.nextLine();
         }
-        System.out.println(String.join(", ",shoppingList));
+        System.out.printf("Cupid's last position was %d.%n", lastPosition);
+        int failed = 0;
+        for (int i = 0; i < neighborhood.length; i++) {
+            if (neighborhood[i] > 0) {
+                failed++;
+            }
+        }
+        if (failed > 0) {
+            System.out.printf("Cupid has failed %d places.%n", failed);
+        } else {
+            System.out.println("Mission was successful.");
+        }
     }
 }
