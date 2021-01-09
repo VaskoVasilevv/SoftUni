@@ -1,22 +1,57 @@
-package bg.softuni.fundamentals.Arrays;
+package Arrays;
 
+
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
+
 
 public class demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int[] numbers = new int[]{1, 2, 3,};
 
-        for (int number : numbers) {
-            System.out.println(number);
+        List<String> shoppingList = Arrays.stream(scanner.nextLine().split("!")).collect(Collectors.toList());
+
+        String input = scanner.nextLine();
+        while (!input.equals("Go Shopping!")) {
+            String[] command = input.split(" ");
+            switch (command[0]) {
+                case "Urgent":
+                    String item = command[1];
+                    if (!shoppingList.contains(item)){
+                        shoppingList.add(0,item);
+                    }
+                    break;
+                case "Unnecessary":
+                    item = command[1];
+                    if (shoppingList.contains(item)){
+                        shoppingList.remove(item);
+                    }
+                    break;
+                case "Correct":
+                    String oldItem = command[1];
+                    String newItem = command[2];
+                    if (shoppingList.contains(oldItem)){
+                        int index = shoppingList.indexOf(oldItem);
+                        shoppingList.remove(oldItem);
+                        shoppingList.add(index,newItem);
+                    }
+
+                    break;
+                case "Rearrange":
+                    item = command[1];
+                    if (shoppingList.contains(item)) {
+                        int index = shoppingList.indexOf(item);
+                        shoppingList.remove(index);
+                        shoppingList.add(item);
+                    }
+                    break;
+            }
+
+            input = scanner.nextLine();
         }
-        // su6tototo kato for cikul
-
-        for (int i = 0; i < numbers.length; i++) {
-            int number = numbers[i];
-            System.out.println(number);
-        }
-
+        System.out.println(String.join(", ",shoppingList));
     }
 }
