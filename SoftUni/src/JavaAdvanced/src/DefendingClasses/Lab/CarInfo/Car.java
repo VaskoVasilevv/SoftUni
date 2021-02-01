@@ -1,4 +1,4 @@
-package DefendingClasses.Lab.Class;
+package DefendingClasses.Lab.CarInfo;
 
 public class Car {
     private String brand;
