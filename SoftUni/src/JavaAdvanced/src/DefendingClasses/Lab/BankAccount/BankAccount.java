@@ -1,4 +1,4 @@
-package DefendingClasses.Lab.Class;
+package DefendingClasses.Lab.BankAccount;
 
 public class BankAccount {
     private final static double DEFALUT_INTEREST_RATE = 0.02;
@@ -21,7 +21,7 @@ public class BankAccount {
     }
 
     public double getInterest(int years) {
-        return BankAccount.interestRate * this.balance  * years  ;
+        return BankAccount.interestRate * this.balance * years;
     }
 
     public int getId() {
