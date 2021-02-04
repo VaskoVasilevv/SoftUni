@@ -21,10 +21,17 @@ public class Employee {
         this(name, salary, position, department, "n/a", -1);
     }
 
+    public Employee(String name, double salary, String position, String department, String email) {
+        this(name, salary, position, department, email, -1);
+    }
+
+    public Employee(String name, double salary, String position, String department, int age) {
+        this(name, salary, position, department, "n/a", age);
+    }
+
     public String getName() {
         return name;
     }
-
 
 
     public String getDepartment() {
