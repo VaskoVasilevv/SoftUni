@@ -21,6 +21,7 @@ public class Bakery {
     }
 
     public boolean remove(String name) {
+        //  return employees.removeIf(e -> e.getName().equals(name));
         int indexToRemove = -1;
         for (int i = 0; i < employees.size(); i++) {
             if (employees.get(i).getName().equals(name)) {
@@ -35,7 +36,6 @@ public class Bakery {
         }
         return false;
 
-        //  return employees.removeIf(e -> e.getName().equals(name));
     }
 
     public Employee getOldestEmploy() {
