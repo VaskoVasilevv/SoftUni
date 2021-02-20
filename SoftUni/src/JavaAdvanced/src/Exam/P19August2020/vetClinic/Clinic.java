@@ -18,6 +18,8 @@ public class Clinic {
         }
     }
     public boolean remove(String name){
+        //  return employees.removeIf(e -> e.getName().equals(name));
+
         int index = -1;
 
         for (int i = 0; i < data.size(); i++) {
