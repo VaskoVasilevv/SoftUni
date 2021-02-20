@@ -13,4 +13,5 @@
 |**Course**|**Link**| 
 |---|---|
 |<a href="https://softuni.bg/courses/programming-basics" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/85268/21996d73"> Link</a> |
-|<a href="https://softuni.bg/courses/technology-fundamentals-csharp-java-javascript-and-python" > Programming Fundamentals </a>  | <a href="https://softuni.bg/certificates/details/93855/74c008bd"> Link</a> |
+|<a href="https://softuni.bg/courses/technology-fundamentals-csharp-java-javascript-and-python" > Programming Fundamentals </a>  | <a href="https://softuni.bg/certificates/details/96650/44c062c0"> Link</a> |
+|<a href="https://softuni.bg/modules/59/java-advanced/1281" > Java Advanced </a>   | <a href="https://softuni.bg/certificates/details/85268/21996d73"> Link</a> |
