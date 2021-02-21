@@ -1,4 +1,4 @@
-package Exam.dealership;
+package Exam.Exam.dealership;
 
 public class Car {
     private String manufacturer;
