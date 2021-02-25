@@ -33,7 +33,7 @@ public class Grades {
 
         }
         double sum = average / students;
-        System.out.printf("Top Abstraction.students: %.2f%%%n", top * 1.0 / students * 100);
+        System.out.printf("Top Abstraction.Lab.PiontInRectangele.students: %.2f%%%n", top * 1.0 / students * 100);
         System.out.printf("Between 4.00 and 4.99: %.2f%%%n", sredni * 1.0 / students * 100);
         System.out.printf("Between 3.00 and 3.99: %.2f%%%n", low * 1.0 / students * 100);
         System.out.printf("Fail: %.2f%%%n", fail * 1.0 / students * 100);
