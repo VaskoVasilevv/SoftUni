@@ -1,4 +1,4 @@
-package Abstraction.Ex.greedyTimes;
+package Abstraction.Ex.greedyTimes_06;
 
 import java.util.Scanner;
 

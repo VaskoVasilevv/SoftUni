@@ -1,4 +1,4 @@
-package Abstraction.Lab.PiontInRectangele.holiday;
+package Abstraction.Lab.holiday;
 
 public enum DiscountType {
     VIP(20),

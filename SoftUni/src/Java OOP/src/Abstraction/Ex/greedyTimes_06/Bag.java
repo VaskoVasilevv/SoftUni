@@ -1,4 +1,4 @@
-package Abstraction.Ex.greedyTimes;
+package Abstraction.Ex.greedyTimes_06;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -71,34 +71,26 @@ public class Bag {
             sb.append("##Gold - ").append(this.totalGold).append(System.lineSeparator());
         }
 
-        if (this.gems.size() > 0) {
-            sb.append("<Gem> $").append(this.totalGems).append(System.lineSeparator());
-            gems.entrySet().stream().sorted((f, s) -> {
-                int result = s.getKey().compareTo(f.getKey());
-                if (result == 0) {
-                    result = f.getValue().compareTo(s.getValue());
-                }
-                return result;
-            }).forEach(entry -> {
-                sb.append("##").append(entry.getKey()).append(" - ")
-                        .append(entry.getValue()).append(System.lineSeparator());
-            });
-        }
+        addResult(sb, this.gems, "<Gem> $", this.totalGems);
 
-        if (this.cash.size() > 0) {
-            sb.append("<Cash> $").append(this.totalCash).append(System.lineSeparator());
-            this.cash.entrySet().stream().sorted((f, s) -> {
-                int result = s.getKey().compareTo(f.getKey());
-                if (result == 0) {
-                    result = f.getValue().compareTo(s.getValue());
-                }
-                return result;
-            }).forEach(entry -> {
-                sb.append("##").append(entry.getKey()).append(" - ")
-                        .append(entry.getValue()).append(System.lineSeparator());
-            });
-        }
+        addResult(sb, this.cash, "<Cash> $", this.totalCash);
 
         return sb.toString().trim();
+    }
+
+    private void addResult(StringBuilder sb, Map<String, Long> material, String s2, long totalMaterial) {
+        if (material.size() > 0) {
+            sb.append(s2).append(totalMaterial).append(System.lineSeparator());
+            material.entrySet().stream().sorted((f, s) -> {
+                int result = s.getKey().compareTo(f.getKey());
+                if (result == 0) {
+                    result = f.getValue().compareTo(s.getValue());
+                }
+                return result;
+            }).forEach(entry -> {
+                sb.append("##").append(entry.getKey()).append(" - ")
+                        .append(entry.getValue()).append(System.lineSeparator());
+            });
+        }
     }
 }

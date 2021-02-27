@@ -6,8 +6,8 @@ import java.io.PrintWriter;
 
 public class GetFolderSize {
 
-    private static final String DIR_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\Exercises Resources";
-    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\result.txt";
+    private static final String DIR_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\Exercises Resources";
+    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\result.txt";
 
     public static void main(String[] args) {
         try (PrintWriter writer = new PrintWriter(OUTPUT_PATH)) {
