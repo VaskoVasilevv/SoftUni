@@ -117,6 +117,12 @@ public class ReadAndPrintMatrix {
                 .map(Integer::parseInt)
                 .collect(Collectors.toCollection(ArrayDeque::new));
 
+    PRINT
+------------------------------------------------------------------------------
+List<Integer>|| Stack || Queue
+System.out.println(female.isEmpty() ? "Females left: none"
+                :String.format("Females left: %s",female.stream().map(String::valueOf).collect(Collectors.joining(", "))));
+    }
 */
 
 

@@ -1,4 +1,4 @@
-package Abstraction.Lab.PiontInRectangele.holiday;
+package Abstraction.Lab.holiday;
 
 import java.util.Scanner;
 

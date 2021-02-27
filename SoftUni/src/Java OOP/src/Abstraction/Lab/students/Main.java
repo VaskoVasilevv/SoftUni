@@ -1,4 +1,4 @@
-package Abstraction.Lab.PiontInRectangele.students;
+package Abstraction.Lab.students;
 
 import java.util.Scanner;
 

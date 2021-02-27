@@ -9,9 +9,9 @@ import java.util.Map;
 
 public class WordCount {
 
-    private static final String WORDS_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\words.txt";
-    private static final String TEXT_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\text.txt";
-    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\result.txt";
+    private static final String WORDS_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\words.txt";
+    private static final String TEXT_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\text.txt";
+    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\result.txt";
     public static void main(String[] args) {
 
         try (BufferedReader wordReader = new BufferedReader(new FileReader(WORDS_INPUT_PATH));

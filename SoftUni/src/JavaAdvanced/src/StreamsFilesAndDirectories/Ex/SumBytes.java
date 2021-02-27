@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 public class SumBytes {
     public static void main(String[] args) {
 
-        try (BufferedReader reader = Files.newBufferedReader(Paths.get("D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\input.txt"))) {
+        try (BufferedReader reader = Files.newBufferedReader(Paths.get("D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\input.txt"))) {
             String line = reader.readLine();
 
             long sum = 0;
