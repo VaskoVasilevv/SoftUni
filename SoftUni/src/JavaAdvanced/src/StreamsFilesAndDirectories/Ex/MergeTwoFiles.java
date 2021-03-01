@@ -8,9 +8,9 @@ import java.io.PrintWriter;
 public class MergeTwoFiles {
 
 
-    private static final String FIRST_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\inputOne.txt";
-    private static final String SECOND_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\inputTwo.txt";
-    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Ex\\Recources\\result.txt";
+    private static final String FIRST_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\inputOne.txt";
+    private static final String SECOND_INPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\inputTwo.txt";
+    private static final String OUTPUT_PATH = "D:\\SoftUniGit\\SoftUni\\src\\JavaAdvanced\\src\\StreamsFilesAndDirectories\\Encapsulation.Lab.Ex\\Recources\\result.txt";
 
     public static void main(String[] args) {
 
