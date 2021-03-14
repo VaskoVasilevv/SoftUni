@@ -1,6 +1,6 @@
-package Polymorphism.Ex.vehicles;
+package vehicles;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -9,13 +9,16 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         String[] vehicleData = scanner.nextLine().split("\\s+");
-        Vehicle car = new Car(Double.parseDouble(vehicleData[1]), Double.parseDouble(vehicleData[2]));
+        Vehicle car = new Car(Double.parseDouble(vehicleData[1]), Double.parseDouble(vehicleData[2]),Double.parseDouble(vehicleData[3]));
         vehicleData = scanner.nextLine().split("\\s+");
-        Vehicle truck = new Truck(Double.parseDouble(vehicleData[1]), Double.parseDouble(vehicleData[2]));
+        Vehicle truck = new Truck(Double.parseDouble(vehicleData[1]), Double.parseDouble(vehicleData[2]),Double.parseDouble(vehicleData[3]));
+        vehicleData = scanner.nextLine().split("\\s+");
+        Vehicle bus = new Bus(Double.parseDouble(vehicleData[1]), Double.parseDouble(vehicleData[2]),Double.parseDouble(vehicleData[3]));
 
-        Map<String, Vehicle> vehicle = new HashMap<>();
+        Map<String, Vehicle> vehicle = new LinkedHashMap<>();
         vehicle.put("Car", car);
         vehicle.put("Truck", truck);
+        vehicle.put("Bus",bus);
 
 
         int n = Integer.parseInt(scanner.nextLine());
@@ -23,6 +26,8 @@ public class Main {
             String[] tokens = scanner.nextLine().split("\\s+");
             String output = null;
             if (tokens[0].equals("Drive")) {
+                output = vehicle.get(tokens[1]).drive(Double.parseDouble(tokens[2]));
+            }else if (tokens[0].equals("DriveEmpty")){
                 output = vehicle.get(tokens[1]).drive(Double.parseDouble(tokens[2]));
             } else {
                 vehicle.get(tokens[1]).reFuel(Double.parseDouble(tokens[2]));
