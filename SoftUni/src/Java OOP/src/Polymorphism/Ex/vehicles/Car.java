@@ -1,4 +1,4 @@
-package vehicles;
+package Polymorphism.Ex.vehicles;
 
 public class Car extends Vehicle{
     private static final double ADDITIONAL_CONSUMPTION = 0.9;

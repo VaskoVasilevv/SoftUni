@@ -1,4 +1,4 @@
-package vehicles;
+package Polymorphism.Ex.vehicles;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
