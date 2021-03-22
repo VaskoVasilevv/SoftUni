@@ -1,9 +1,9 @@
-package barracksWars.core.commands;
+package ReflectionAndAnnotations.Ex.barracksWars.core.commands;
 
-import barracksWars.interfaces.Inject;
-import barracksWars.interfaces.Repository;
-import barracksWars.interfaces.Unit;
-import barracksWars.interfaces.UnitFactory;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.Inject;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.Repository;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.Unit;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.UnitFactory;
 
 public class Add extends Command{
     @Inject
