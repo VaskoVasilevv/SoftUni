@@ -1,13 +1,13 @@
-package barracksWars.core;
+package ReflectionAndAnnotations.Ex.barracksWars.core;
 
-import barracksWars.interfaces.*;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.*;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 
 public class CommandInterpreterImpl implements CommandInterpreter {
-    private static final String COMMAND_PACKAGE = "barracksWars.core.commands.";
+    private static final String COMMAND_PACKAGE = "ReflectionAndAnnotations.Ex.barracksWars.core.commands.";
     private Repository repository;
     private UnitFactory unitFactory;
 

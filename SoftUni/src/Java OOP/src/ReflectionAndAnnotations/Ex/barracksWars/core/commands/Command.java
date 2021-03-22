@@ -1,6 +1,6 @@
-package barracksWars.core.commands;
+package ReflectionAndAnnotations.Ex.barracksWars.core.commands;
 
-import barracksWars.interfaces.Executable;
+import ReflectionAndAnnotations.Ex.barracksWars.interfaces.Executable;
 
 public abstract class Command implements Executable {
     private String[] data;
