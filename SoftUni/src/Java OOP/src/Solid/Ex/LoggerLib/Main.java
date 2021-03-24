@@ -33,6 +33,7 @@ public class Main {
                 layout = new XmlLayout();
             }
 
+
             if (tokens[0].equals("ConsoleAppender")) {
                 appender = new ConsoleAppender(layout);
             } else {
