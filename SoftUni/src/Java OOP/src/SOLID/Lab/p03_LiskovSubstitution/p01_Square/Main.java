@@ -1,4 +1,4 @@
-package Solid.Lab.p05_DependencyInversion.p01_HelloWord;
+package SOLID.Lab.p03_LiskovSubstitution.p01_Square;
 
 public class Main {
     public static void main(String[] args) {

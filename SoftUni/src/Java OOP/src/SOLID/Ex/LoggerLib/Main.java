@@ -1,15 +1,15 @@
-package Solid.Ex.LoggerLib;
+package SOLID.Ex.LoggerLib;
 
 
-import Solid.Ex.LoggerLib.appenders.ConsoleAppender;
-import Solid.Ex.LoggerLib.appenders.FileAppender;
-import Solid.Ex.LoggerLib.appenders.interfaces.Appender;
-import Solid.Ex.LoggerLib.enumerations.ReportLevel;
-import Solid.Ex.LoggerLib.layouts.SimpleLayout;
-import Solid.Ex.LoggerLib.layouts.XmlLayout;
-import Solid.Ex.LoggerLib.layouts.interfaces.Layout;
-import Solid.Ex.LoggerLib.loggers.MessageLogger;
-import Solid.Ex.LoggerLib.loggers.interfaces.Logger;
+import SOLID.Ex.LoggerLib.appenders.ConsoleAppender;
+import SOLID.Ex.LoggerLib.appenders.FileAppender;
+import SOLID.Ex.LoggerLib.appenders.interfaces.Appender;
+import SOLID.Ex.LoggerLib.enumerations.ReportLevel;
+import SOLID.Ex.LoggerLib.layouts.SimpleLayout;
+import SOLID.Ex.LoggerLib.layouts.XmlLayout;
+import SOLID.Ex.LoggerLib.layouts.interfaces.Layout;
+import SOLID.Ex.LoggerLib.loggers.MessageLogger;
+import SOLID.Ex.LoggerLib.loggers.interfaces.Logger;
 
 import java.io.IOException;
 import java.util.Scanner;

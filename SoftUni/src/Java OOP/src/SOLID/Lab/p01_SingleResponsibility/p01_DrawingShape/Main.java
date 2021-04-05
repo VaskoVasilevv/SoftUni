@@ -1,4 +1,4 @@
-package Solid.Lab.p03_LiskovSubstitution.p01_Square;
+package SOLID.Lab.p01_SingleResponsibility.p01_DrawingShape;
 
 public class Main {
     public static void main(String[] args) {
