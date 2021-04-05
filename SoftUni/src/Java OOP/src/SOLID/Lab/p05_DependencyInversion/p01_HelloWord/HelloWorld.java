@@ -1,4 +1,4 @@
-package Solid.Lab.p05_DependencyInversion.p01_HelloWord;
+package SOLID.Lab.p05_DependencyInversion.p01_HelloWord;
 
 import java.time.LocalDateTime;
 

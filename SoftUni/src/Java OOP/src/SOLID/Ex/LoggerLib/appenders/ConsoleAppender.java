@@ -1,7 +1,7 @@
-package Solid.Ex.LoggerLib.appenders;
+package SOLID.Ex.LoggerLib.appenders;
 
-import Solid.Ex.LoggerLib.enumerations.ReportLevel;
-import Solid.Ex.LoggerLib.layouts.interfaces.Layout;
+import SOLID.Ex.LoggerLib.enumerations.ReportLevel;
+import SOLID.Ex.LoggerLib.layouts.interfaces.Layout;
 
 public class ConsoleAppender extends AppenderImpl {
 

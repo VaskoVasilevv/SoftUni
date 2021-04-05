@@ -1,9 +1,9 @@
-package Solid.Ex.LoggerLib.appenders;
+package SOLID.Ex.LoggerLib.appenders;
 
-import Solid.Ex.LoggerLib.coustomFiles.LogFile;
-import Solid.Ex.LoggerLib.coustomFiles.interfaces.File;
-import Solid.Ex.LoggerLib.enumerations.ReportLevel;
-import Solid.Ex.LoggerLib.layouts.interfaces.Layout;
+import SOLID.Ex.LoggerLib.coustomFiles.LogFile;
+import SOLID.Ex.LoggerLib.coustomFiles.interfaces.File;
+import SOLID.Ex.LoggerLib.enumerations.ReportLevel;
+import SOLID.Ex.LoggerLib.layouts.interfaces.Layout;
 
 import java.io.IOException;
 

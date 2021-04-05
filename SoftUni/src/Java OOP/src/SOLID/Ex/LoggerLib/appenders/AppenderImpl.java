@@ -1,8 +1,8 @@
-package Solid.Ex.LoggerLib.appenders;
+package SOLID.Ex.LoggerLib.appenders;
 
-import Solid.Ex.LoggerLib.appenders.interfaces.Appender;
-import Solid.Ex.LoggerLib.enumerations.ReportLevel;
-import Solid.Ex.LoggerLib.layouts.interfaces.Layout;
+import SOLID.Ex.LoggerLib.appenders.interfaces.Appender;
+import SOLID.Ex.LoggerLib.enumerations.ReportLevel;
+import SOLID.Ex.LoggerLib.layouts.interfaces.Layout;
 
 public abstract class AppenderImpl implements Appender {
 

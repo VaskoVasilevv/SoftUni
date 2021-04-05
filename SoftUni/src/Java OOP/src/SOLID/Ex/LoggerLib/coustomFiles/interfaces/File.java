@@ -1,4 +1,4 @@
-package Solid.Ex.LoggerLib.coustomFiles.interfaces;
+package SOLID.Ex.LoggerLib.coustomFiles.interfaces;
 
 public interface File {
     void write();

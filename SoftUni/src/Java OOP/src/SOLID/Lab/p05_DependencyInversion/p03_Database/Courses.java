@@ -1,4 +1,4 @@
-package Solid.Lab.p05_DependencyInversion.p03_Database;
+package SOLID.Lab.p05_DependencyInversion.p03_Database;
 
 public class Courses {
     public void printAll()
