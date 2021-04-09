@@ -1,4 +1,4 @@
-package Solid.Lab.p03_LiskovSubstitution.p01_Square;
+package SOLID.Lab.p03_LiskovSubstitution.p01_Square;
 
 public class Rectangle extends Shape {
    private double width;

@@ -1,8 +1,8 @@
-package Solid.Lab.p01_SingleResponsibility.p01_DrawingShape;
+package SOLID.Lab.p01_SingleResponsibility.p01_DrawingShape;
 
-import Solid.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.DrawingRepository;
-import Solid.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.Renderer;
-import Solid.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.Shape;
+import SOLID.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.DrawingRepository;
+import SOLID.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.Renderer;
+import SOLID.Lab.p01_SingleResponsibility.p01_DrawingShape.interfaces.Shape;
 
 public class Rectangle implements Shape {
     private double width;

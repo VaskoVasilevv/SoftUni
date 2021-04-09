@@ -51,7 +51,7 @@ public class Selling {
             }
         }
         if (!isInBakery && money < 50){
-            System.out.println("Bad news, you are out of the bakery.");
+            System.out.println("Bad news, you are out of the ExamPreparation_2.ExamPreparation_2.bakery.");
         }else {
             System.out.println("Good news! You succeeded in collecting enough money!");
         }

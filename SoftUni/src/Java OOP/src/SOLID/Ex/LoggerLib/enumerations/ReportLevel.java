@@ -1,4 +1,4 @@
-package Solid.Ex.LoggerLib.enumerations;
+package SOLID.Ex.LoggerLib.enumerations;
 
 public enum ReportLevel {
     INFO,
