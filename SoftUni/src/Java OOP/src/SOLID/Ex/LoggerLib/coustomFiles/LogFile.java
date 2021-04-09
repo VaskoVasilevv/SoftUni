@@ -1,6 +1,6 @@
-package Solid.Ex.LoggerLib.coustomFiles;
+package SOLID.Ex.LoggerLib.coustomFiles;
 
-import Solid.Ex.LoggerLib.coustomFiles.interfaces.File;
+import SOLID.Ex.LoggerLib.coustomFiles.interfaces.File;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Solid.Ex.LoggerLib.loggers.interfaces;
+package SOLID.Ex.LoggerLib.loggers.interfaces;
 
 public interface Logger {
     void logInfo(String date,String message);

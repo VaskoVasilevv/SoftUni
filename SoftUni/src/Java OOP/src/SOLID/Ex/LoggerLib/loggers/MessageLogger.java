@@ -1,8 +1,8 @@
-package Solid.Ex.LoggerLib.loggers;
+package SOLID.Ex.LoggerLib.loggers;
 
-import Solid.Ex.LoggerLib.appenders.interfaces.Appender;
-import Solid.Ex.LoggerLib.enumerations.ReportLevel;
-import Solid.Ex.LoggerLib.loggers.interfaces.Logger;
+import SOLID.Ex.LoggerLib.appenders.interfaces.Appender;
+import SOLID.Ex.LoggerLib.enumerations.ReportLevel;
+import SOLID.Ex.LoggerLib.loggers.interfaces.Logger;
 
 public class MessageLogger implements Logger {
     private Appender[] appenders;
