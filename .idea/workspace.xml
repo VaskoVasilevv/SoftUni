@@ -1,0 +1,1885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="232c3b59-eed6-4ac0-8c75-def5817a6fd9" name="Default Changelist" comment="new homework">
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/Fundamentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/ArrayRotationEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/CommonElementsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/CondenseArrayToNumberLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/DayOfWeekLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/EncryptSortAndPrintArrayEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/EqualArraysLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/EqualSumsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/EvenAndOddSubtractionLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/LadyBugsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/CountRealNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E01CountCharsInAStringEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E01CountRealNumbersLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E02MinerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E02WordSynonymsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E03LegendaryFarmingEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E04Orders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E04WordFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E05SoftUniParkingEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E06CoursesEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E07StudentAcademyEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/E09ForceBookEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/AssociativeArrays/Largest3Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/Ages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/BackIn30Minutes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/DivisibleBy3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/EnglishNameOfTheLastDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/ForeignLanguages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Basyc/Syntax/GamingStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/BitWiseOperations/BinaryAndDecimalConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/BitWiseOperations/BinaryAndDecimalConversionReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/BitWiseOperations/BinaryDigitsCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/BeerKegsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/CenturesToMinutesLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/CharsToStrinLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/ContactNamesLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/DataTypeFinderMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/DecryptingMessagesMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/ElevatorEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/ExactSumOfRealNumbersLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/FloatingEqualityMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Data/Types/FromLEftToTheRightMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01AprilActivationKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01AprilPasswordRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01AugustTheImitationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01AugustWorldTour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01EmailValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01PasswordRestWhitStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01SecretChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E01TheImitationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02AprilEmojiDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02AugustAdAstra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02AugustDestinationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02FancyBarcodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02MessageTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E02MirrorWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03AprilHeroesOfCodeAndLogicVII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03AugustPlatDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03NeedForSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03NikuldenMeals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03Pirates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03PlantDiscoveryMAP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/E03ThePianist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/InboxManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/AppendArraysEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/BombNumbersEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/CarRaceEXAM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/CardsGameEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/ChangeListEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/GaussTrickLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Lists/HousePartyEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/ArrayManipulatorEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/CalculateReactingAreaLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/CenterPointEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/CharactersInRangeEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/DataTypesEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/FactorialDivisionEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/GradesLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/GreaterOfTwoValuesLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/KaminoFactoryEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Methods/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/ArcheryTournament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/ArraySwapEXAM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/CookingMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01BlackFlagExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01BonusScoringSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01ComputerStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01CounterStrike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01DisneyJourney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01EasterCozonacs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01NationalCourt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E01TheHuntingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02ArcheryTournament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02ArrayModifierEXAM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02EasterGifts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02MuOnline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02ShootForTheWin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02TheLift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E02TreasureHunt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03EasterShopping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03MovingTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03NumbersEXAM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/E03SizeTheFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/HeartDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/MidEXAM/Inventory_индекси.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E01AdvertisementMessageEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E01RandomizeWordsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E02ArticlesEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E02SumBigNumbersLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E03BigFactorialLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E03OpinionPollEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E04Articles2EX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E04SongsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E05StudentsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E05StudentsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E06Students2LAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E06VehicleCatalogueEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Objects/E07OrderByAgeEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E01FurnitureEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E01WinningTicketMoreEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E02MatchPhoneNumberLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E02RaceEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E03MatchDatesLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E03SoftUniBarIncomeEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/RegularExpressions/E04StarEnigmaEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E01ExtractPersonInformationMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E01ReverseStringsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E01ValidUsernamesEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E02AsciiSumatorMoreEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E02RepeatStringsLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E03ExtractFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E03SubstringLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E03TreasureFinderMoreEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E04TextFilterLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E05CaesarCipherEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E05DigitsLettersAndOtherLAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E05MultiplyBigNumberEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E06ReplaceRepeatingCharsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E07StringExplosionEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/TextProcessing/E08LettersChangeNumbersEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Fundamentals/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/Java OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/cardRank_02/CardRank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/cardSuit_01/CardSuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/cardsWithPower_03/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/cardsWithPower_03/CardRank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/cardsWithPower_03/CardSuits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/greedyTimes_06/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Ex/trafficLights/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Abstraction/Lab/holiday/DiscountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Encapsulation/Ex/AnimalFarm_02/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Encapsulation/Ex/PizzaCalories_04/Dough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Encapsulation/Ex/classBox_01/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/common/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/common/ConstantMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/core/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/aquariums/Aquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/aquariums/BaseAquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/aquariums/FreshwaterAquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/decorations/BaseDecoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/decorations/Decoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/fish/BaseFish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/fish/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/models/fish/FreshwaterFish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/aquarium/repositories/DecorationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/interfaces/AbsorbingModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/interfaces/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/interfaces/EnergyModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/interfaces/Identifiable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/BaseAbsorberModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/BaseEnergyModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/BaseModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/BaseReactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/CooldownSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/CryoReactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/CryogenRod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/HeatProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/cresla/models/HeatReactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/common/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/core/interfaces/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/core/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/entities/cars/BaseCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/entities/drivers/DriverImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/entities/interfaces/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/entities/interfaces/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/io/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/io/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/repositories/CarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/easterRaces/repositories/DriverRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/heroes/Assassin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/heroes/Barbarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/heroes/HeroComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/heroes/Heroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/items/CommonItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/items/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/miscellaneous/HeroInventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/entities/miscellaneous/ItemCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/interfaces/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/interfaces/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/interfaces/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/common/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/common/ConstantMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/core/interfaces/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/core/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/models/guns/BaseGun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/models/guns/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/models/neighbourhood/GangNeighbourhood.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/models/players/BasePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/models/players/CivilPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/viceCity/repositories/interfaces/GunRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/common/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/core/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/models/field/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/models/field/FieldImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/models/guns/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/models/guns/GunImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/models/players/CounterTerrorist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/CounterStriker/repositories/GunRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/common/enums/BakedFoodType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/common/enums/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/common/enums/DrinkType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/core/interfaces/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/core/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/bakedFoods/BaseFood.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/bakedFoods/Bread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/bakedFoods/Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/bakedFoods/interfaces/BakedFood.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/drinks/BaseDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/drinks/interfaces/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/entities/tables/BaseTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/io/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/io/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/io/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/repositories/DrinkRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/repositories/FoodRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/repositories/interfaces/DrinkRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/bakery/repositories/interfaces/FoodRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/common/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/common/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/core/interfaces/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/core/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/entities/cars/BaseCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/entities/drivers/DriverImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/entities/interfaces/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/entities/interfaces/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/io/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/io/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/io/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/repositories/CarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/easterRaces/repositories/DriverRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/common/constants/ExceptionMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/common/enums/CommandType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/core/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/core/EngineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/core/interfaces/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/core/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/io/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/io/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/io/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/BaseProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/components/BaseComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/components/CentralProcessingUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/components/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/computers/BaseComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/computers/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/computers/DesktopComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/computers/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/peripherals/BasePeripheral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/peripherals/Headset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_2/onlineShop/models/products/peripherals/Keyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExceptionAndErrorHandling/Lab/InvalidPersonNameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/animals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/animals/Frog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/animals/Kitten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/needForSpeed/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/needForSpeed/CrossMotorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/needForSpeed/FamilyCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/person/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/ColdBeverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/Dessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/resturant/HotBeverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/zoo/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/zoo/Bear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Ex/zoo/Gorilla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Lab/SingleInheritence/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Lab/SingleInheritence/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Inheritance/Lab/SingleInheritence/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/BirthdayCelebrations/Birthable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/BirthdayCelebrations/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/BirthdayCelebrations/Identifiable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/DefineAnInterfacePerson/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/MultipleImplementation/Birthable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/MultipleImplementation/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/MultipleImplementation/Identifiable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/CommandoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/EngineerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/Interfaces/Commando.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/Interfaces/Engineer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/Interfaces/LieutenantGeneral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/commands/BaseCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/commands/CommandoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/commands/EngineerCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/commands/LieutenantGeneralCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/commands/interfaces/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/army/enums/Corps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/foodShortage/Birthable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/foodShortage/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/foodShortage/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/foodShortage/Identifiable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/telephony/Browsable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Ex/telephony/Callable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/borderControl/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/borderControl/Identifiable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/car/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/car/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/car/CarImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/sayHello/Bulgarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/sayHello/Chinese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/InterfacesAndAbstracion/Lab/sayHello/European.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/calculator/CalculationEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/calculator/DivisionOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/calculator/Extensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/vehicles/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/vehicles/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/wildFarm/animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/wildFarm/animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/wildFarm/animals/Felime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Ex/wildFarm/foods/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Lab/animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Lab/animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Lab/animals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/Polymorphism/Lab/shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/core/CommandInterpreterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/core/commands/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/core/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/core/commands/Fight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/interfaces/Attacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/interfaces/CommandInterpreter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/interfaces/Destroyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/interfaces/Executable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/interfaces/Inject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/models/units/AbstractUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/models/units/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/models/units/Gunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/barracksWars/models/units/Horseman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Ex/blackBoxInteger/BlackBoxInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/ReflectionAndAnnotations/Lab/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/appenders/AppenderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/appenders/ConsoleAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/appenders/FileAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/appenders/interfaces/Appender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/coustomFiles/interfaces/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Ex/LoggerLib/layouts/interfaces/Layout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p01_SingleResponsibility/p01_DrawingShape/DrawingManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p05_DependencyInversion/p01_HelloWord/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p05_DependencyInversion/p03_Database/Courses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/Java OOP/src/SOLID/Lab/p05_DependencyInversion/p03_Database/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/JavaAdvanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/CarSalesman/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/CarSalesman/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/CompanyRoster/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/CompanyRoster/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/Google/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/Google/Children.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/Google/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/RawData/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/RawData/Cargo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/RawData/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Lab/BankAccount/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Lab/CarInfo/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/Exam/dealership/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/Exam/dealership/Dealership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P16December2020/Cooking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P16December2020/Opening/Bakery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P16December2020/Opening/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P17Dec2019/christmas/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P19August2020/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P19August2020/FlowerWreaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P19August2020/vetClinic/Clinic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P22Feb2020/guild/Guild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P26Oct2020/BookWorm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P26Oct2020/DatingApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P26Oct2020/rabits/Cage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P28June2020/Bombs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P28June2020/parking/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/FunctionalProgramming/Ex/Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Ex/CustomListSorter/CustomList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Ex/GenericBox/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Ex/GenericBoxOfInteger/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Ex/GenericCountMethodStrings/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Ex/GenericSwapMethodString/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Lab/ArrayCreator/ArrayCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Generics/Lab/Jar/Jar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Ex/Froggy/Lake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Lab/ComparableBook/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Lab/ComparableBook/BookComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Lab/Library/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Lab/Library/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/Crossfire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/DiagonalDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/FillTheMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Lab/CompareMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Lab/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Lab/IntersectionOfTwoMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/AMinerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/CountSymbols.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/FixEmails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/HandOfCardsByJoro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/HandsOfCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/AcademyGraduation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/AverageStudentsGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/CitiesByContinentAndCountry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/CuntRealNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/e.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BalancedParenthesesEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BasicQueueOperationsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BasicStackOperationsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BrowserHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BrowserHistoryUpgrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/DecimalToBinaryConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/HotPotato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Ex/ALLCAPITALS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Ex/CopyPicture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Ex/CountCharacterTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Ex/CreateZipArchive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Ex/GetFolderSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Lab/CopyBytes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Lab/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Lab/ExtractIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Workshop/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/JavaDB/JavaDB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Calculations/AlkoholMarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Calculations/Aqarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Calculations/CharityCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Calculations/DanceHall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Calculations/Ku4eta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/AccountBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/AreaOfFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/CleverLily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/Coins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/DivideWithoutRemainder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/EvenorOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/ExamPreparation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/ExcellentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/GesThePassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/Graduation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/GraduationPt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/GreaterNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/HalfSumElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/Histogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/ConditionalStatements/LeftOrRightSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/AverageNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/BIkeRace04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/BackToThePast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Balls04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/BarcodeGenerator06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/BestPlayer04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Bills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CarNumber06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CarToGo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CareOfPuppy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CatLife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CatShirt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CatWallking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CelsiusToFahrenheit01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/ChallengetheWedding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/ChallengetheWedding06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/ChangeBurealo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CinemaTickets06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/CoffeeMachine03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Dishwasher04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterBake05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterCompetition06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterEggs05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterEggsBattle04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterSecoration06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EasterShop04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/EnergyBooster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/ExcursionSale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/FitnessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Flowers04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/FoodForPets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/FootballTournament05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/GameOfIntervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/GiftsFromSanta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Grades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/HappyCatParking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/Letters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/LettersCombination06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/Exam/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/AccountBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/AreaOfFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/CleverLily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/Coins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/DivideWithoutRemainder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/EvenorOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/ExamPreparation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/ExcellentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/GesThePassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/Graduation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/GraduationPt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/GreaterNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/HalfSumElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/Histogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/LastProjeckt/LeftOrRightSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/AddBags.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/AgencyProfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/AluminumJoinery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/Balls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/BarcodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/BestPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/CinemaTickets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/Combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/DivisionWithoutRemainder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/EqualSumsEvenOddPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni/src/ProgrammingBasics/src/NestedLoops/Fooddelivery.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1levKISaUVAYXaEC2Uok4ksMukD" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="||" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ProgrammingBasics" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Solid.Lab.p01_SingleResponsibility.p01_DrawingShape" />
+      <recent name="Polymorphism.Ex.word" />
+      <recent name="Polymorphism.Ex.calculator" />
+      <recent name="ShoppingSpree_03" />
+      <recent name="Encapsulation.Ex.PizzaCalories_04" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUniGit\SoftUni\src\Java OOP\src" />
+      <recent name="D:\SoftUniGit\SoftUni\src\Java OOP\src\ExamPreparation_2" />
+      <recent name="D:\SoftUniGit\SoftUni\src\Java OOP\src\ExamPreparation_1" />
+      <recent name="D:\SoftUniGit\SoftUni\src\Java OOP\src\EXAMS" />
+      <recent name="D:\SoftUniGit\SoftUni\src\Java OOP\src\ReflectionAndAnnotations\Lab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUniGit\src" />
+      <recent name="D:\SoftUniGit\src\Fundamentals\src" />
+      <recent name="D:\SoftUniGit\src\Fundamentals" />
+      <recent name="D:\SoftUniGit\SoftUni" />
+      <recent name="D:\SoftUniGit\SoftUni\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="firstAndReserveTeam_04" />
+      <recent name="validationData_03" />
+      <recent name="salaryIncrease_02" />
+      <recent name="asd" />
+      <recent name="Library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayRotationEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayRotationEX" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamPreparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastProjeckt.ExamPreparation" />
+      <module name="ProgrammingBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LastProjeckt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mai" />
+      <module name="Java OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SoftUniGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Ex.GenericCountMethodStrings.Main" />
+      <module name="JavaAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstProblem.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Lab.animals.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Lab.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.MultipleImplementation.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.MultipleImplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Lab.GenericScale.Main" />
+      <module name="SoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Lab.GenericScale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.vehicles.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Ex.CustomList.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Ex.CustomList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.Main" />
+      <module name="SoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.aquarium.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.calculator.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerLib.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerLib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.DefineAnInterfacePerson.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.DefineAnInterfacePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Ex.Stack.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorsAndComperators.Ex.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.P26Oct2020.rabits.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.P26Oct2020.rabits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetClinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.wildFarm.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.wildFarm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.CounterStriker.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Lab.ComparableBook.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorsAndComperators.Lab.ComparableBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardSuit_01.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardSuit_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.viceCity.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.viceCity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.trafficLights.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.trafficLights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Lab.sortByNAmeAndAge_01.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.Lab.sortByNAmeAndAge_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Ex.GenericBoxOfInteger.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Ex.GenericBoxOfInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefendingClasses.Ex.OpinionPool.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefendingClasses.Ex.OpinionPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.cresla.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.cresla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Ex.ComparingObjects.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorsAndComperators.Ex.ComparingObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.onlineShop.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.onlineShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.cresla.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.cresla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardRank_02.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardsWithPower_03.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardsWithPower_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Ex.Froggy.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorsAndComperators.Ex.Froggy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Fundamentals" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Fundamentals" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayRotationEX" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Mai" />
+        <item itemvalue="Application.ExamPreparation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="232c3b59-eed6-4ac0-8c75-def5817a6fd9" name="Default Changelist" comment="" />
+      <created>1607970305802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607970305802</updated>
+    </task>
+    <task id="LOCAL-00261" summary="new homework">
+      <created>1617525334643</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1617525334643</updated>
+    </task>
+    <task id="LOCAL-00262" summary="new homework">
+      <created>1617525347425</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1617525347425</updated>
+    </task>
+    <task id="LOCAL-00263" summary="new homework">
+      <created>1617630900092</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1617630900092</updated>
+    </task>
+    <task id="LOCAL-00264" summary="new homework">
+      <created>1617630953103</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1617630953103</updated>
+    </task>
+    <task id="LOCAL-00265" summary="new homework">
+      <created>1617630969279</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1617630969279</updated>
+    </task>
+    <task id="LOCAL-00266" summary="new homework">
+      <created>1617636643997</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1617636643997</updated>
+    </task>
+    <task id="LOCAL-00267" summary="new homework">
+      <created>1617717024863</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1617717024863</updated>
+    </task>
+    <task id="LOCAL-00268" summary="new homework">
+      <created>1617717095314</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1617717095314</updated>
+    </task>
+    <task id="LOCAL-00269" summary="new homework">
+      <created>1617717106576</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1617717106576</updated>
+    </task>
+    <task id="LOCAL-00270" summary="new homework">
+      <created>1617717118072</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1617717118072</updated>
+    </task>
+    <task id="LOCAL-00271" summary="new homework">
+      <created>1617777381013</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1617777381013</updated>
+    </task>
+    <task id="LOCAL-00272" summary="new homework">
+      <created>1617777393988</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1617777393988</updated>
+    </task>
+    <task id="LOCAL-00273" summary="new homework">
+      <created>1617777405708</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1617777405708</updated>
+    </task>
+    <task id="LOCAL-00274" summary="new homework">
+      <created>1617864754948</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1617864754948</updated>
+    </task>
+    <task id="LOCAL-00275" summary="new homework">
+      <created>1617864773282</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1617864773282</updated>
+    </task>
+    <task id="LOCAL-00276" summary="new homework">
+      <created>1617864786991</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1617864786991</updated>
+    </task>
+    <task id="LOCAL-00277" summary="new homework">
+      <created>1617864820484</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1617864820484</updated>
+    </task>
+    <task id="LOCAL-00278" summary="new homework">
+      <created>1617864847023</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1617864847023</updated>
+    </task>
+    <task id="LOCAL-00279" summary="new homework">
+      <created>1617892146240</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1617892146240</updated>
+    </task>
+    <task id="LOCAL-00280" summary="new homework">
+      <created>1617947830655</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1617947830655</updated>
+    </task>
+    <task id="LOCAL-00281" summary="new homework">
+      <created>1617971428134</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1617971428134</updated>
+    </task>
+    <task id="LOCAL-00282" summary="new homework">
+      <created>1617971469395</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1617971469395</updated>
+    </task>
+    <task id="LOCAL-00283" summary="new homework">
+      <created>1617971501462</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1617971501462</updated>
+    </task>
+    <task id="LOCAL-00284" summary="new homework">
+      <created>1618061624514</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1618061624514</updated>
+    </task>
+    <task id="LOCAL-00285" summary="new homework">
+      <created>1618061710174</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1618061710174</updated>
+    </task>
+    <task id="LOCAL-00286" summary="new homework">
+      <created>1618061727967</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1618061727967</updated>
+    </task>
+    <task id="LOCAL-00287" summary="new homework">
+      <created>1618145909576</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1618145909576</updated>
+    </task>
+    <task id="LOCAL-00288" summary="new homework">
+      <created>1618145928355</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1618145928355</updated>
+    </task>
+    <task id="LOCAL-00289" summary="new homework">
+      <created>1618145945540</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1618145945540</updated>
+    </task>
+    <task id="LOCAL-00290" summary="new homework">
+      <created>1618217803448</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1618217803448</updated>
+    </task>
+    <task id="LOCAL-00291" summary="new homework">
+      <created>1618217815306</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1618217815306</updated>
+    </task>
+    <task id="LOCAL-00292" summary="new homework">
+      <created>1618217827373</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1618217827373</updated>
+    </task>
+    <task id="LOCAL-00293" summary="new homework">
+      <created>1618217844637</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1618217844637</updated>
+    </task>
+    <task id="LOCAL-00294" summary="new homework">
+      <created>1618310855927</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1618310855927</updated>
+    </task>
+    <task id="LOCAL-00295" summary="new homework">
+      <created>1618310867472</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1618310867472</updated>
+    </task>
+    <task id="LOCAL-00296" summary="new homework">
+      <created>1618310886542</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1618310886542</updated>
+    </task>
+    <task id="LOCAL-00297" summary="new homework">
+      <created>1618421772770</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1618421772770</updated>
+    </task>
+    <task id="LOCAL-00298" summary="new homework">
+      <created>1618421806171</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1618421806171</updated>
+    </task>
+    <task id="LOCAL-00299" summary="new homework">
+      <created>1618421828848</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1618421828848</updated>
+    </task>
+    <task id="LOCAL-00300" summary="new homework">
+      <created>1618579546645</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1618579546645</updated>
+    </task>
+    <task id="LOCAL-00301" summary="new homework">
+      <created>1618579559553</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1618579559553</updated>
+    </task>
+    <task id="LOCAL-00302" summary="new homework">
+      <created>1618579571639</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1618579571639</updated>
+    </task>
+    <task id="LOCAL-00303" summary="new homework">
+      <created>1618660969975</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1618660969975</updated>
+    </task>
+    <task id="LOCAL-00304" summary="new homework">
+      <created>1618660985810</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1618660985810</updated>
+    </task>
+    <task id="LOCAL-00305" summary="new homework">
+      <created>1618661000748</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1618661000748</updated>
+    </task>
+    <task id="LOCAL-00306" summary="new homework">
+      <created>1618664245352</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1618664245352</updated>
+    </task>
+    <task id="LOCAL-00307" summary="new homework">
+      <created>1618665157133</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1618665157133</updated>
+    </task>
+    <task id="LOCAL-00308" summary="new homework">
+      <created>1618738235471</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1618738235472</updated>
+    </task>
+    <task id="LOCAL-00309" summary="new homework">
+      <created>1618739533032</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1618739533032</updated>
+    </task>
+    <option name="localTasksCounter" value="310" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added on 20.01.21" />
+    <MESSAGE value="added on 21.01.21" />
+    <MESSAGE value="Adedd on 22.01.21" />
+    <MESSAGE value="added on 22.01.21" />
+    <MESSAGE value="added on 23.01.21" />
+    <MESSAGE value="added on 25.01.21" />
+    <MESSAGE value="Added on 26.01.21" />
+    <MESSAGE value="Added on 27.01.21" />
+    <MESSAGE value="added on 29.01.21" />
+    <MESSAGE value="Added on 30.01.21" />
+    <MESSAGE value="add 31.01.21" />
+    <MESSAGE value="added on 02.02.21" />
+    <MESSAGE value="added on 03.02.21" />
+    <MESSAGE value="added on 04.02.21" />
+    <MESSAGE value="added on 05.02.21" />
+    <MESSAGE value="added on 06.02.21" />
+    <MESSAGE value="added on 07.02.21" />
+    <MESSAGE value="added on 09.02.21" />
+    <MESSAGE value="added 09.02.21" />
+    <MESSAGE value="added on 10.02.21" />
+    <MESSAGE value="add 01.02.21" />
+    <MESSAGE value="homework" />
+    <MESSAGE value="new homeworck" />
+    <MESSAGE value="new  homework" />
+    <MESSAGE value="new homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="new homework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/Problem2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Fundamentals/src/FinalExam/Pirates.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/SimpleCalculator.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/DecimalToBinaryConverter.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/MatchingBrackets.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/PrinterQueue.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/HotPotato.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BrowserHistoryUpgrade.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/ArrayRotationEX.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Fundamentals/src/Arrays/demo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/SimpleCalculator2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BalancedParenthesesEX.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/BalancedParenthesesEX.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/Demo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StacksAndQueues/Demo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/MatrixShuffling.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/MatrixShuffling.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/DiagonalDifference.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/LiveDemo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/LiveDemo.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/Voina.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/Lab/ProductShop.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/HandsOfCards.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/SetsAndMapsAdvanced/EX/FixEmails.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/StreamsFilesAndDirectories/Lab/WriteEveryThirdLine.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/FunctionalProgramming/Ex/Exercise.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/FunctionalProgramming/Ex/P10_PredicateParty.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Lab/BankAccount/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Lab/BankAccount/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/DefendingClasses/Ex/Google/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/IteratorsAndComperators/Ex/Stack/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/SpaceExam/SpaceshipCrafting.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P19August2020/Bee.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P19August2020/Bee.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P28June2020/Bombs.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P22Feb2020/Lootbox.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P22Feb2020/ReVolt.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/P26Oct2020/DatingApp.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/Exam/Demo23Oct2019/MakeSalad.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Java OOP/src/Encapsulation/Ex/shoppingSpree/Main.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExceptionAndErrorHandling/Lab/P01.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/Java OOP/src/ExamPreparation_1/hell/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SoftUni/src/JavaAdvanced/src/MultidimensionalArrays/Exercise/StringMatrixRotation.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="DefendingClasses.Ex.Google.Person" memberName="pokemonList" />
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="stack" />
+        <watch expression="secondLootbox.toArray()[2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftUniGit$P10_PredicateParty.ic" NAME="P10_PredicateParty Coverage Results" MODIFIED="1611919518119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FunctionalProgramming.Ex.*</FILTER>
+    </SUITE>
+  </component>
+</project>
