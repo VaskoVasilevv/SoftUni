@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Fundamentals" target="14" />
+      <module name="Java OOP" target="14" />
+      <module name="JavaAdvanced" target="14" />
+      <module name="ProgrammingBasics" target="14" />
+      <module name="SoftUni" target="14" />
+      <module name="SoftUniGit" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
