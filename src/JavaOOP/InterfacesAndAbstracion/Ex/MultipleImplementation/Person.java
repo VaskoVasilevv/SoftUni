@@ -1,6 +1,0 @@
-package JavaOOP.InterfacesAndAbstracion.Ex.MultipleImplementation;
-
-public interface Person {
-    String getName();
-    int getAge();
-}
