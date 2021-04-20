@@ -1,4 +1,4 @@
-package JavaOOP.Polymorphism.Ex.wildFarm.animals;
+package Polymorphism.Ex.wildFarm.animals;
 
 public class Tiger extends Felime{
     public Tiger(String name, String type, double weight, String livingRegion) {

@@ -1,4 +1,4 @@
-package Fundamentals.MidEXAM;
+package MidEXAM;
 
 import java.util.Arrays;
 import java.util.Scanner;
