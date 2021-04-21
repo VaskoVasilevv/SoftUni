@@ -1,4 +1,4 @@
-package JavaOOP.Abstraction.Lab.calendar;
+package Abstraction.Lab.calendar;
 
 public enum WeekDay {
     MONDAY(1),

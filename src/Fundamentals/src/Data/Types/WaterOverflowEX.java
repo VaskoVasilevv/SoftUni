@@ -1,4 +1,4 @@
-package Fundamentals.Data.Types;
+package Data.Types;
 
 import java.util.Scanner;
 
