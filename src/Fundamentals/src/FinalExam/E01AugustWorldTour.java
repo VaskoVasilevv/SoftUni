@@ -34,7 +34,7 @@ public class E01AugustWorldTour {
                     allStops = new StringBuilder(allStops.toString().replace(oldString, newString));
                     break;
                 default:
-                    System.out.println("Unknown command: " + command);
+                    System.out.println("Unknown DesignPatterns.Ex.command: " + command);
                     break;
             }
             System.out.println(allStops);
