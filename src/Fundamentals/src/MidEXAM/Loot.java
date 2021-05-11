@@ -44,7 +44,7 @@ public class Loot {
 
                     break;
                 default:
-                    throw new IllegalStateException("Unknown command");
+                    throw new IllegalStateException("Unknown DesignPatterns.Ex.command");
             }
             input = scanner.nextLine();
         }
