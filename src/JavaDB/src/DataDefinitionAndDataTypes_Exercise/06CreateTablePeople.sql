@@ -4,7 +4,7 @@ CREATE TABLE `people`(
 `picture` BLOB,
 `height` FLOAT(5,2) ,
 `weight` FLOAT(5,2) ,
-`gender` CHAR(1) NOT NULL,
+`gender` ENUM('M','F') NOT NULL,
 `birthdate` DATE NOT NULL,
 `biography` TEXT
 );
