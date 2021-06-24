@@ -16,3 +16,4 @@
 |<a href="https://softuni.bg/courses/technology-fundamentals-csharp-java-javascript-and-python" > Programming Fundamentals2 </a>  | <a href="https://softuni.bg/certificates/details/96650/44c062c0"> Link</a> |
 |<a href="https://softuni.bg/modules/59/java-advanced/1281" > Java Advanced </a>   | <a href="https://softuni.bg/certificates/details/98522/9a37f3c1"> Link</a> |
 |<a href="https://softuni.bg/modules/59/java-advanced/1281" > Java OOP </a>   | <a href="https://softuni.bg/certificates/details/104118/8c5063d7"> Link</a> |
+ |<a href="https://softuni.bg/modules/24/java-db/1284" > MySQL </a>   | <a href="https://softuni.bg/certificates/details/107830/18f374df"> Link</a> |
