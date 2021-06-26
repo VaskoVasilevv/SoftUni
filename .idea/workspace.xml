@@ -6,12 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="232c3b59-eed6-4ac0-8c75-def5817a6fd9" name="Default Changelist" comment="new homework">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_24.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/BasicCrud/Exercise/10. Find All Employees Without Manager.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/BasicCrud/Exercise/11. Find All Employees with Salary More Than.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/BasicCrud/Exercise/12. Find 5 Best Paid Employees.sql" afterDir="false" />
@@ -117,31 +115,22 @@
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/TableRelations/Exercise/05. Online Store Database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/TableRelations/Exercise/06. University Database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDB/src/TableRelations/Exercise/09. Peaks in Rila.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/Homework.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/Homework.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/P02_GetVillainsNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/P03_GetMinionsNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/sql/minions_db.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Lab/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Lab/sql/diablo_database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Lab/sql/soft_uni_database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/bg/codexio/customOrmDemo/ApplicationStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/bg/codexio/customOrmDemo/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/bg/codexio/customOrmDemo/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/bg/codexio/customOrmDemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/ApplicationStarter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/annotation/Column.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/annotation/Entity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/annotation/Id.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/core/EntityManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/core/EntityManagerFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/core/EntityManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/entity/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringData/SpringData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpringData/SpringData.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,11 +232,11 @@
   </component>
   <component name="RunManager" selected="Application.ApplicationStarter">
     <configuration name="ApplicationStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bg.codexio.customOrmDemo.ApplicationStarter" />
+      <option name="MAIN_CLASS_NAME" value="ormFramework.ApplicationStarter" />
       <module name="SpringData" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.codexio.customOrmDemo.*" />
+          <option name="PATTERN" value="ormFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,110 +263,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Generics.Ex.GenericBoxOfInteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bakery.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardRank_02.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.vehicles.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Polymorphism.Ex.vehicles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardSuit_01.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.cardSuit_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Ex.CustomList.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.Ex.CustomList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vetClinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstProblem.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,6 +401,19 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Lab.ComparableBook.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
@@ -640,6 +538,19 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardRank_02.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
@@ -691,6 +602,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.vehicles.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardSuit_01.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardSuit_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Ex.CustomList.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Ex.CustomList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetClinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstProblem.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P02_GetVillainsNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DatabaseAccessWithJDBC.Exercise.P02_GetVillainsNames" />
       <module name="SpringData" />
@@ -724,19 +713,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ApplicationStarter" />
@@ -762,42 +738,7 @@
       <workItem from="1624445373921" duration="5777000" />
       <workItem from="1624452860278" duration="8709000" />
       <workItem from="1624464258404" duration="28891000" />
-      <workItem from="1624614473675" duration="1861000" />
-    </task>
-    <task id="LOCAL-00454" summary="new homework">
-      <created>1623351873450</created>
-      <option name="number" value="00454" />
-      <option name="presentableId" value="LOCAL-00454" />
-      <option name="project" value="LOCAL" />
-      <updated>1623351873450</updated>
-    </task>
-    <task id="LOCAL-00455" summary="new homework">
-      <created>1623351907660</created>
-      <option name="number" value="00455" />
-      <option name="presentableId" value="LOCAL-00455" />
-      <option name="project" value="LOCAL" />
-      <updated>1623351907660</updated>
-    </task>
-    <task id="LOCAL-00456" summary="new homework">
-      <created>1623351922518</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1623351922518</updated>
-    </task>
-    <task id="LOCAL-00457" summary="new homework">
-      <created>1623351934041</created>
-      <option name="number" value="00457" />
-      <option name="presentableId" value="LOCAL-00457" />
-      <option name="project" value="LOCAL" />
-      <updated>1623351934041</updated>
-    </task>
-    <task id="LOCAL-00458" summary="new homework">
-      <created>1623429815223</created>
-      <option name="number" value="00458" />
-      <option name="presentableId" value="LOCAL-00458" />
-      <option name="project" value="LOCAL" />
-      <updated>1623429815223</updated>
+      <workItem from="1624614473675" duration="2455000" />
     </task>
     <task id="LOCAL-00459" summary="new homework">
       <created>1623429829336</created>
@@ -1107,7 +1048,42 @@
       <option name="project" value="LOCAL" />
       <updated>1624611746720</updated>
     </task>
-    <option name="localTasksCounter" value="503" />
+    <task id="LOCAL-00503" summary="new homework">
+      <created>1624715088844</created>
+      <option name="number" value="00503" />
+      <option name="presentableId" value="LOCAL-00503" />
+      <option name="project" value="LOCAL" />
+      <updated>1624715088844</updated>
+    </task>
+    <task id="LOCAL-00504" summary="new homework">
+      <created>1624715153471</created>
+      <option name="number" value="00504" />
+      <option name="presentableId" value="LOCAL-00504" />
+      <option name="project" value="LOCAL" />
+      <updated>1624715153471</updated>
+    </task>
+    <task id="LOCAL-00505" summary="new homework">
+      <created>1624715165200</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1624715165200</updated>
+    </task>
+    <task id="LOCAL-00506" summary="new homework">
+      <created>1624715189141</created>
+      <option name="number" value="00506" />
+      <option name="presentableId" value="LOCAL-00506" />
+      <option name="project" value="LOCAL" />
+      <updated>1624715189141</updated>
+    </task>
+    <task id="LOCAL-00507" summary="new homework">
+      <created>1624715504983</created>
+      <option name="number" value="00507" />
+      <option name="presentableId" value="LOCAL-00507" />
+      <option name="project" value="LOCAL" />
+      <updated>1624715504983</updated>
+    </task>
+    <option name="localTasksCounter" value="508" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1383,7 +1359,7 @@
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SpringData/src/main/java/bg/codexio/customOrmDemo/ApplicationStarter.java</url>
+          <url>file://$PROJECT_DIR$/src/SpringData/src/main/java/ormFramework/ApplicationStarter.java</url>
           <line>45</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
