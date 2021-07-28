@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exam3" />
+        <module name="AutoMappingObjects" />
+        <module name="exam2" />
+        <module name="SpringDataIntro" />
+        <module name="XML" />
+        <module name="HibernateCodeFirst" />
+        <module name="JSONProcessing" />
+        <module name="SpringDataIntroExercise" />
+        <module name="AdvancedQueringExercise" />
+        <module name="Exam" />
+        <module name="SpringDataAdvancedQuering" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel target="14">
+      <module name="AdvancedQueringExercise" target="16" />
+      <module name="AutoMappingObjects" target="16" />
+      <module name="exam" target="12" />
+      <module name="Exam" target="12" />
+      <module name="exam2" target="15" />
+      <module name="Exam3" target="12" />
+      <module name="ExamPrep" target="8" />
+      <module name="HibernateCodeFirst" target="14" />
+      <module name="Homeworck" target="14" />
+      <module name="Homework" target="16" />
+      <module name="IntroductionToHibernate" target="14" />
       <module name="JavaAdvanced" target="14" />
+      <module name="JSONProcessing" target="16" />
       <module name="SoftUniGit" target="14" />
+      <module name="SpringData" target="14" />
+      <module name="SpringDataAdvancedQuering" target="16" />
+      <module name="SpringDataAdvanceQueringExrcise" target="16" />
+      <module name="SpringDataIntro" target="11" />
+      <module name="SpringDataIntroExercise" target="11" />
+      <module name="wrapper" target="1.5" />
+      <module name="XML" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AdvancedQueringExercise" options="-parameters" />
+      <module name="AutoMappingObjects" options="-parameters" />
+      <module name="Exam" options="-parameters" />
+      <module name="Exam3" options="-parameters" />
+      <module name="ExamPrep" options="-parameters" />
+      <module name="Homework" options="-parameters" />
+      <module name="JSONProcessing" options="-parameters" />
+      <module name="SpringDataAdvancedQuering" options="-parameters" />
+      <module name="SpringDataIntro" options="-parameters" />
+      <module name="SpringDataIntroExercise" options="-parameters" />
+      <module name="XML" options="-parameters" />
+      <module name="exam" options="-parameters" />
+      <module name="exam2" options="-parameters" />
+    </option>
   </component>
 </project>
