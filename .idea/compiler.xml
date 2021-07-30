@@ -6,28 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Exam3" />
-        <module name="Exam4" />
-        <module name="AutoMappingObjects" />
-        <module name="exam2" />
-        <module name="SpringDataIntro" />
-        <module name="XML" />
         <module name="HibernateCodeFirst" />
         <module name="JSONProcessing" />
-        <module name="SpringDataIntroExercise" />
         <module name="AdvancedQueringExercise" />
-        <module name="Exam" />
         <module name="SpringDataAdvancedQuering" />
+        <module name="Exam3" />
+        <module name="AutoMappingObj" />
+        <module name="Exam4" />
+        <module name="Exam5" />
+        <module name="SpringDataIntro" />
+        <module name="XML" />
+        <module name="Exam2" />
+        <module name="SpringDataIntroExercise" />
+        <module name="Exam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="14">
       <module name="AdvancedQueringExercise" target="16" />
-      <module name="AutoMappingObjects" target="16" />
+      <module name="AutoMappingObj" target="12" />
+      <module name="AutoMappingObjects" target="12" />
       <module name="exam" target="12" />
       <module name="Exam" target="12" />
-      <module name="exam2" target="15" />
+      <module name="Exam2" target="15" />
       <module name="Exam3" target="12" />
       <module name="Exam4" target="11" />
+      <module name="Exam5" target="11" />
       <module name="ExamPrep" target="8" />
       <module name="HibernateCodeFirst" target="14" />
       <module name="Homeworck" target="14" />
@@ -49,10 +52,13 @@
     <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AdvancedQueringExercise" options="-parameters" />
+      <module name="AutoMappingObj" options="-parameters" />
       <module name="AutoMappingObjects" options="-parameters" />
       <module name="Exam" options="-parameters" />
+      <module name="Exam2" options="-parameters" />
       <module name="Exam3" options="-parameters" />
       <module name="Exam4" options="-parameters" />
+      <module name="Exam5" options="-parameters" />
       <module name="ExamPrep" options="-parameters" />
       <module name="Homework" options="-parameters" />
       <module name="JSONProcessing" options="-parameters" />
@@ -61,7 +67,6 @@
       <module name="SpringDataIntroExercise" options="-parameters" />
       <module name="XML" options="-parameters" />
       <module name="exam" options="-parameters" />
-      <module name="exam2" options="-parameters" />
     </option>
   </component>
 </project>
