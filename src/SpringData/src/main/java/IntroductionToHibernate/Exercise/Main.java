@@ -1,6 +1,4 @@
-package Exercise;
-
-import IntroductionToHibernate.Exercise.Engine;
+package IntroductionToHibernate.Exercise;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

@@ -31,7 +31,7 @@ public class Homework {
             case 6 -> exSix();
             case 7 -> exSeven();
             case 8 -> exEight();
-            case 9 -> exNine();
+//            case 9 -> exNine();
         }
 
 
@@ -330,32 +330,32 @@ public class Homework {
         }
     }
 
-    private static void exNine() throws IOException {
-        System.out.println("You must have Procedure with name usp_get_older");
-        System.out.println("Enter minion id.");
-        int minionId = Integer.parseInt(reader.readLine());
-
-        CallableStatement callableStatement =
-                null;
-        try {
-            callableStatement = con.prepareCall("CALL usp_get_older(?)");
-            callableStatement.setInt(1, minionId);
-            int affected = callableStatement.executeUpdate();
-
-
-            PreparedStatement preparedStatement = con.prepareStatement("SELECT  name,age FROM minions");
-            ResultSet resultSet = preparedStatement.executeQuery();
-
-            while (resultSet.next()){
-                System.out.printf("%s %d%n",resultSet.getString("name")
-                ,resultSet.getInt("age"));
-            }
-        } catch (SQLException throwables) {
-            System.out.println("You dont have the Procedure");
-        }
-
-
-    }
+//    private static void exNine() throws IOException {
+//        System.out.println("You must have Procedure with name usp_get_older");
+//        System.out.println("Enter minion id.");
+//        int minionId = Integer.parseInt(reader.readLine());
+//
+//        CallableStatement callableStatement =
+//                null;
+//        try {
+//            callableStatement = con.prepareCall("CALL usp_get_older(?)");
+//            callableStatement.setInt(1, minionId);
+//            int affected = callableStatement.executeUpdate();
+//
+//
+//            PreparedStatement preparedStatement = con.prepareStatement("SELECT  name,age FROM minions");
+//            ResultSet resultSet = preparedStatement.executeQuery();
+//
+//            while (resultSet.next()){
+//                System.out.printf("%s %d%n",resultSet.getString("name")
+//                ,resultSet.getInt("age"));
+//            }
+//        } catch (SQLException throwables) {
+//            System.out.println("You dont have the Procedure");
+//        }
+//
+//
+//    }
 
     private static Connection getConnection() throws IOException, SQLException {
         System.out.println("Enter user.");

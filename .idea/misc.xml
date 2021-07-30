@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/OneDrive/Работен плот/SpringData/Exam/RealDeal_Skeleton" />
+    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam" />
+    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam3" />
+    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam4" />
+    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/ExamPrep" />
+    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/RealDeal_Skeleton" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/src/SpringData/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/SpringDataIntro/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/SpringDataIntro/Exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/SpringDatataIntroExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/SpringDataIntroExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/SpringDataAdvancedQuering/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/AdvancedQueringExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Homework/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/Homework/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/JSONProcessing/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/XML/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/AutoMappingObjects/pom.xml" />
+        <option value="$PROJECT_DIR$/ExamPrep/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/Exam/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/exam2/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/Exam3/pom.xml" />
+        <option value="$PROJECT_DIR$/src/SpringData/Exam4/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/src/SpringData/Homeworck/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
