@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Exam3" />
+        <module name="Exam4" />
         <module name="AutoMappingObjects" />
         <module name="exam2" />
         <module name="SpringDataIntro" />
@@ -26,6 +27,7 @@
       <module name="Exam" target="12" />
       <module name="exam2" target="15" />
       <module name="Exam3" target="12" />
+      <module name="Exam4" target="11" />
       <module name="ExamPrep" target="8" />
       <module name="HibernateCodeFirst" target="14" />
       <module name="Homeworck" target="14" />
@@ -50,6 +52,7 @@
       <module name="AutoMappingObjects" options="-parameters" />
       <module name="Exam" options="-parameters" />
       <module name="Exam3" options="-parameters" />
+      <module name="Exam4" options="-parameters" />
       <module name="ExamPrep" options="-parameters" />
       <module name="Homework" options="-parameters" />
       <module name="JSONProcessing" options="-parameters" />
