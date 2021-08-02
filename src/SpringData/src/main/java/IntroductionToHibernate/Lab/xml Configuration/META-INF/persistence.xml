@@ -17,5 +17,9 @@
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
         </properties>
+        <class>com.example.springdataintro.models.Account</class>
+        <class>com.example.springdataintro.models.Account</class>
+        <class>com.example.jsonprocessing.model.entity.Part</class>
+        <class>com.example.jsonprocessing.model.entity.Costumer</class>
     </persistence-unit>
 </persistence>
