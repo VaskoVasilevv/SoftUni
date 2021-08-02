@@ -25,13 +25,14 @@
       <module name="AdvancedQueringExercise" target="16" />
       <module name="AutoMappingObj" target="12" />
       <module name="AutoMappingObjects" target="12" />
-      <module name="exam" target="12" />
       <module name="Exam" target="12" />
+      <module name="exam" target="12" />
       <module name="Exam2" target="15" />
       <module name="Exam3" target="12" />
       <module name="Exam4" target="11" />
       <module name="Exam5" target="11" />
       <module name="ExamPrep" target="8" />
+      <module name="ExamReal" target="16" />
       <module name="HibernateCodeFirst" target="14" />
       <module name="Homeworck" target="14" />
       <module name="Homework" target="16" />
@@ -60,6 +61,7 @@
       <module name="Exam4" options="-parameters" />
       <module name="Exam5" options="-parameters" />
       <module name="ExamPrep" options="-parameters" />
+      <module name="ExamReal" options="-parameters" />
       <module name="Homework" options="-parameters" />
       <module name="JSONProcessing" options="-parameters" />
       <module name="SpringDataAdvancedQuering" options="-parameters" />
