@@ -1,0 +1,1 @@
+SELECT count(*) AS 'Count'FROm `wizzard_deposits`;
