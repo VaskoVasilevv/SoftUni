@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SqlResolveMappings">
-    <file url="file://$PROJECT_DIR$/src/SpringData/src/main/java/DatabaseAccessWithJDBC/Exercise/Homework.java" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;51163ccb-0c0d-4fe6-a76e-23aa743874c0&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;minions_db&quot;      }     }    }   }  } }}" />
-  </component>
-</project>

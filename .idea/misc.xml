@@ -2,11 +2,11 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$USER_HOME$/OneDrive/Работен плот/SpringData/Exam/RealDeal_Skeleton" />
-    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam" />
-    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam3" />
-    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/Exam4" />
-    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/ExamPrep" />
-    <file type="web" url="file://$PROJECT_DIR$/src/SpringData/RealDeal_Skeleton" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam3" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam4" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringData/ExamPrep" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringData/RealDeal_Skeleton" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -30,6 +30,9 @@
         <option value="$PROJECT_DIR$/src/SpringData/Exam4/pom.xml" />
         <option value="$PROJECT_DIR$/src/SpringData/Exam5/pom.xml" />
         <option value="$PROJECT_DIR$/src/SpringData/AutoMappingObj/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/AutoMappingObj/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/Exam5/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/Exam4/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
