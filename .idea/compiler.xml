@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="AutoMappingObjects" />
-        <module name="HibernateCodeFirst" />
-        <module name="JSONProcessing" />
-        <module name="exam (1)" />
-        <module name="AdvancedQueringExercise" />
-        <module name="exam (2)" />
-        <module name="exam (3)" />
-        <module name="hiberspring" />
-        <module name="instagraph" />
-        <module name="advquerying" />
-        <module name="SpringDataIntro" />
-        <module name="XML" />
-        <module name="SpringDataIntroExercise" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel target="14">
       <module name="AdvancedQueringExercise" target="16" />
       <module name="advquerying" target="16" />
       <module name="AutoMappingObj" target="12" />
-      <module name="AutoMappingObjects" target="14" />
       <module name="Exam" target="12" />
       <module name="exam" target="12" />
       <module name="exam (1)" target="12" />
@@ -38,7 +17,6 @@
       <module name="ExamPrep" target="8" />
       <module name="ExamReal" target="16" />
       <module name="HibernateCodeFirst" target="14" />
-      <module name="hiberspring" target="11" />
       <module name="Homeworck" target="14" />
       <module name="Homework" target="16" />
       <module name="instagraph" target="15" />
