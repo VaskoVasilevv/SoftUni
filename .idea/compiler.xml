@@ -6,7 +6,6 @@
       <module name="advquerying" target="16" />
       <module name="AutoMappingObj" target="12" />
       <module name="Exam" target="12" />
-      <module name="exam" target="12" />
       <module name="exam (1)" target="12" />
       <module name="exam (2)" target="12" />
       <module name="exam (3)" target="11" />
@@ -53,6 +52,7 @@
       <module name="SpringDataIntro" options="-parameters" />
       <module name="SpringDataIntroExercise" options="-parameters" />
       <module name="SpringFundamentals" options="-parameters" />
+      <module name="WebApplication" options="-parameters" />
       <module name="XML" options="-parameters" />
       <module name="advquerying" options="-parameters" />
       <module name="exam" options="-parameters" />
