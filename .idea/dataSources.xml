@@ -28,5 +28,14 @@ D:/SoftUniGit/src/SpringData/src/main/resources/META-INF/persistence.xml</remark
       <jdbc-url>jdbc:mysql://localhost:3306/soft_uni?createDatabaseIfNotExist=true&amp;useSSL=false&amp;serverTimezone=UTC</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="WebApplication/Hibernate" uuid="bcfc7680-f171-4b21-8ff8-a20c3d528298">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pathfinder?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;createDatabaseIfNotExist=true&amp;serverTimezone=UTC</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
