@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exam" />
+        <module name="examPrep2" />
         <module name="AutoMappingObjects" />
         <module name="WebApplication" />
         <module name="hiberspring" />
@@ -70,6 +71,7 @@
       <module name="exam (1)" options="-parameters" />
       <module name="exam (2)" options="-parameters" />
       <module name="exam (3)" options="-parameters" />
+      <module name="examPrep2" options="-parameters" />
       <module name="hiberspring" options="-parameters" />
       <module name="instagraph" options="-parameters" />
     </option>
