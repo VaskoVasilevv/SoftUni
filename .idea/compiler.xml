@@ -6,19 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="exam" />
         <module name="examPrep2" />
+        <module name="exam" />
+        <module name="examPrep" />
         <module name="AutoMappingObjects" />
+        <module name="exam (1) (com.example)" />
+        <module name="HibernateCodeFirst" />
+        <module name="exam (1)" />
         <module name="WebApplication" />
         <module name="hiberspring" />
+        <module name="MusicDB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="14">
       <module name="AdvancedQueringExercise" target="16" />
       <module name="advquerying" target="16" />
       <module name="AutoMappingObj" target="12" />
-      <module name="Exam" target="12" />
-      <module name="exam (1)" target="12" />
+      <module name="Exam" target="1.5" />
       <module name="exam (2)" target="12" />
       <module name="exam (3)" target="11" />
       <module name="Exam2" target="15" />
@@ -26,8 +30,9 @@
       <module name="Exam4" target="11" />
       <module name="Exam5" target="11" />
       <module name="ExamPrep" target="8" />
+      <module name="examPrep3" target="17" />
       <module name="ExamReal" target="16" />
-      <module name="HibernateCodeFirst" target="14" />
+      <module name="exmaPreparation" target="17" />
       <module name="Homeworck" target="14" />
       <module name="Homework" target="16" />
       <module name="instagraph" target="15" />
@@ -35,7 +40,6 @@
       <module name="JavaAdvanced" target="14" />
       <module name="JSONProcessing" target="16" />
       <module name="SoftUniGit" target="14" />
-      <module name="SpringData" target="14" />
       <module name="SpringDataAdvancedQuering" target="16" />
       <module name="SpringDataAdvanceQueringExrcise" target="16" />
       <module name="SpringDataIntro" target="11" />
@@ -60,6 +64,7 @@
       <module name="ExamReal" options="-parameters" />
       <module name="Homework" options="-parameters" />
       <module name="JSONProcessing" options="-parameters" />
+      <module name="MusicDB" options="-parameters" />
       <module name="SpringDataAdvancedQuering" options="-parameters" />
       <module name="SpringDataIntro" options="-parameters" />
       <module name="SpringDataIntroExercise" options="-parameters" />
@@ -69,9 +74,13 @@
       <module name="advquerying" options="-parameters" />
       <module name="exam" options="-parameters" />
       <module name="exam (1)" options="-parameters" />
+      <module name="exam (1) (com.example)" options="-parameters" />
       <module name="exam (2)" options="-parameters" />
       <module name="exam (3)" options="-parameters" />
+      <module name="examPrep" options="-parameters" />
       <module name="examPrep2" options="-parameters" />
+      <module name="examPrep3" options="-parameters" />
+      <module name="exmaPreparation" options="-parameters" />
       <module name="hiberspring" options="-parameters" />
       <module name="instagraph" options="-parameters" />
     </option>
