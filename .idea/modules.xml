@@ -4,20 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/AdvancedQueringExercise/AdvancedQueringExercise.iml" filepath="$PROJECT_DIR$/src/SpringData/AdvancedQueringExercise/AdvancedQueringExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SpringData/HibernateCodeFirst/HibernateCodeFirst.iml" filepath="$PROJECT_DIR$/src/SpringData/HibernateCodeFirst/HibernateCodeFirst.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/JSONProcessing/JSONProcessing.iml" filepath="$PROJECT_DIR$/src/SpringData/JSONProcessing/JSONProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaDB/JavaDB.iml" filepath="$PROJECT_DIR$/JavaDB/JavaDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaOOP/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP/JavaOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingBasics/ProgrammingBasics.iml" filepath="$PROJECT_DIR$/ProgrammingBasics/ProgrammingBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUniGit.iml" filepath="$PROJECT_DIR$/SoftUniGit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SpringData/SpringData.iml" filepath="$PROJECT_DIR$/src/SpringData/SpringData.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/SpringDataIntro/SpringDataIntro.iml" filepath="$PROJECT_DIR$/src/SpringData/SpringDataIntro/SpringDataIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/SpringDataIntroExercise/SpringDataIntroExercise.iml" filepath="$PROJECT_DIR$/src/SpringData/SpringDataIntroExercise/SpringDataIntroExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringFundamentals/SpringFundamentals.iml" filepath="$PROJECT_DIR$/SpringFundamentals/SpringFundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/XML/XML.iml" filepath="$PROJECT_DIR$/src/SpringData/XML/XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/SpringDataAdvancedQuering/advquerying.iml" filepath="$PROJECT_DIR$/src/SpringData/SpringDataAdvancedQuering/advquerying.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam/exam (1).iml" filepath="$PROJECT_DIR$/src/SpringData/Exam/exam (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam3/exam (2).iml" filepath="$PROJECT_DIR$/src/SpringData/Exam3/exam (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam4/exam (3).iml" filepath="$PROJECT_DIR$/src/SpringData/Exam4/exam (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam2/instagraph.iml" filepath="$PROJECT_DIR$/src/SpringData/Exam2/instagraph.iml" />
