@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam4" />
     <file type="web" url="file://$PROJECT_DIR$/SpringData/ExamPrep" />
     <file type="web" url="file://$PROJECT_DIR$/SpringData/RealDeal_Skeleton" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringFundamentals/exmaPreparation" />
     <file type="web" url="file://$PROJECT_DIR$/SpringFundamentals/SpringBootIntroduction" />
   </component>
   <component name="MavenProjectsManager">
@@ -37,6 +38,12 @@
         <option value="$PROJECT_DIR$/SpringData/Exam4/pom.xml" />
         <option value="$PROJECT_DIR$/SpringFundamentals/WebApplication/pom.xml" />
         <option value="$PROJECT_DIR$/SpringFundamentals/examPrep2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/Exam/pom.zip" />
+        <option value="$PROJECT_DIR$/SpringFundamentals/examPrep/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/Exam/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringFundamentals/exam/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringFundamentals/MusicExam/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
