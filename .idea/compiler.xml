@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="examPrep2" />
-        <module name="exam" />
-        <module name="examPrep" />
-        <module name="AutoMappingObjects" />
-        <module name="exam (1) (com.example)" />
-        <module name="HibernateCodeFirst" />
-        <module name="exam (1)" />
-        <module name="WebApplication" />
-        <module name="hiberspring" />
-        <module name="MusicDB" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel target="14">
       <module name="AdvancedQueringExercise" target="16" />
       <module name="advquerying" target="16" />
