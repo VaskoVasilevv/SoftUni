@@ -18,3 +18,5 @@
 |<a href="https://softuni.bg/modules/59/java-advanced/1281" > Java OOP </a>   | <a href="https://softuni.bg/certificates/details/104118/8c5063d7"> Link</a> |
 |<a href="https://softuni.bg/modules/24/java-db/1284" > MySQL </a>   | <a href="https://softuni.bg/certificates/details/107830/18f374df"> Link</a> |
 |<a href="https://softuni.bg/trainings/3352/spring-data-june-2021/internal" > SpringData </a>   | <a href="https://softuni.bg/certificates/details/110105/5daa447f"> Link</a> |
+|<a href="https://softuni.bg/trainings/3493/spring-fundamentals-september-2021" > SpringFundamentals </a>|<a href="https://softuni.bg/certificates/details/117419/0564a1bf"> Link</a> |
+|<a href="https://softuni.bg/trainings/3494/spring-advanced-october-2021" > SpringAdvanced </a>   | <a href="https://softuni.bg/certificates/details/120321/d62c560a"> Link</a> |
