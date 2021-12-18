@@ -3,6 +3,22 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$USER_HOME$/OneDrive/Работен плот/SpringData/Exam/RealDeal_Skeleton" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/aop" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/books" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/booksclient" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/cloudinary" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/cookies" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/errors" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/events" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/hateoas" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/i18n" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/kotlin" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/lazy" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/mobilelele" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/proxies" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/qa" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/schedules" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringAdvanced/test" />
     <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam" />
     <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam3" />
     <file type="web" url="file://$PROJECT_DIR$/SpringData/Exam4" />
