@@ -6,6 +6,7 @@
       <module name="advquerying" target="16" />
       <module name="AutoMappingObj" target="12" />
       <module name="Exam" target="1.5" />
+      <module name="exam" target="11" />
       <module name="exam (2)" target="12" />
       <module name="exam (3)" target="11" />
       <module name="Exam2" target="15" />
@@ -16,13 +17,18 @@
       <module name="examPrep3" target="17" />
       <module name="ExamReal" target="16" />
       <module name="exmaPreparation" target="17" />
+      <module name="hiberspring" target="11" />
       <module name="Homeworck" target="14" />
       <module name="Homework" target="16" />
       <module name="instagraph" target="15" />
       <module name="IntroductionToHibernate" target="14" />
       <module name="JavaAdvanced" target="14" />
       <module name="JSONProcessing" target="16" />
+      <module name="pathfinder" target="11" />
+      <module name="pathfinder.main" target="11" />
+      <module name="pathfinder.test" target="11" />
       <module name="SoftUniGit" target="14" />
+      <module name="SpringBootIntroduction" target="11" />
       <module name="SpringDataAdvancedQuering" target="16" />
       <module name="SpringDataAdvanceQueringExrcise" target="16" />
       <module name="SpringDataIntro" target="11" />
