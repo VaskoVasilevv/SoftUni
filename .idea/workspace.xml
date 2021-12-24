@@ -9,13 +9,477 @@
   <component name="ChangeListManager">
     <list default="true" id="232c3b59-eed6-4ac0-8c75-def5817a6fd9" name="Default Changelist" comment="new homework">
       <change afterPath="$PROJECT_DIR$/SpringFundamentals/MusicExam/src/main/java/com/example/musicdb/model/service/UserServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringFundamentals/MusicExam/src/main/java/com/example/musicdb/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringFundamentals/exam/src/main/java/com/example/exam/model/service/UserServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringFundamentals/exam/src/main/java/com/example/exam/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringFundamentals/examPrep/src/main/java/com/example/examprep/model/service/UserServiceModel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringFundamentals/examPrep/src/main/java/com/example/examprep/model/view/UserViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringFundamentals/examPrep/src/main/java/com/example/examprep/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/PRtest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/AopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/basic/BasicExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/basic/BasicExampleAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/modifying/ModifyingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/modifying/ModifyingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/DriverController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/SLOAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/SLOsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/TrackLatency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/aop/src/test/java/bg/softuni/aop/AopApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/local/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/BooksApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/BooksApplicationInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/model/dto/AuthorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/model/dto/BookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/model/entity/AuthorEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/model/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/model/entity/BookEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/repository/AuthorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/service/BooksService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/service/impl/BooksServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/java/bg/softuni/books/web/BooksController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/static/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/books/src/test/java/bg/softuni/books/BooksApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/BooksclientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/Init.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/config/RestConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/model/AuthorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/model/BookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/test/java/bg/softuni/booksclient/BooksclientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/CloudinaryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/config/CloudinaryConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/binding/PictureBindingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/entity/PictureEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/view/PictureViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/repository/PictureRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/CloudinaryImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/CloudinaryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/impl/CloudinaryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/web/PicturesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/resources/templates/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/resources/templates/all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/test/java/bg/softuni/cloudinary/CloudinaryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/java/bg/softuni/cookies/CookiesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/java/bg/softuni/cookies/web/CookieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/resources/templates/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cookies/src/test/java/bg/softuni/cookies/CookiesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cssgrid/gridsample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/cssgrid/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/ErrorsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/OrdersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/object-not-found.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/errors/src/test/java/bg/softuni/errors/ErrorsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/ApplicationListenerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/EventsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/OrderCreatedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/orderlisteners/BonusPointsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/orderlisteners/ProductQuantityCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/events/src/test/java/bg/softuni/events/EventsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/forms/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/forms/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/HateoasApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/dto/OrderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/dto/StudentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/CourseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/OrderEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/StudentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/mapping/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/mapping/StudentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/repository/StudentsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/web/StudentsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/test/java/bg/softuni/hateoas/HateoasApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/I18nApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/web/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages_bg.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/i18n/src/test/java/bg/softuni/i18n/I18nApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/KotlinApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/service/GreeterService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/service/GreeterServiceImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/web/GreeterController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/test/kotlin/bg/softuni/kotlin/KotlinApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/DBInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/LazyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/CommentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/PostEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/TagEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/nplus1/RoleEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/nplus1/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/TagRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/nplus1/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/nplus1/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/web/CrossJoinController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/web/NPlus1Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/lazy/src/test/java/bg/softuni/lazy/LazyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilele/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/local/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/local/prometheus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/MobileleleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/ApplicationSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/MobileleMethodSecurityExpressionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/OwnerSecurityExpressionRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/WebConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/init/DBInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/OfferAddBindModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/OfferUpdateBindingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/UserRegistrationBindingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/BrandEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/ModelEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/OfferEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/UserRoleEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/CategoryEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/EngineEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/TransmissionEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/UserRoleEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/BrandServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/ModelServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/OfferAddServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/OfferUpdateServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/UserLoginServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/UserRegistrationServiceModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/validator/UniqueUserName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/validator/UniqueUserNameValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/BrandViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/ModelViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/OfferDetailsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/OfferSummaryView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/StatsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/BrandRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/ModelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/OfferRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/UserRoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/BrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/ModelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/OfferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/StatsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/BrandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/MobileleUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/MobileleUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/ModelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/OfferServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/StatsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/BrandsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/LoggerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/OffersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/StatsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/UserLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/UserRegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/exception/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/interceptor/StatsInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/css/reset-css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/images/car-dealership-car-car-showroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/images/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/images/user-avatar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/js/jquery-3.5.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/auth-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/auth-register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/brands.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/fragments/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/fragments/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/offer-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/offers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/test/java/bg/softuni/mobilelele/MobileleleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Cacheable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/CacheableInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/StudentServiceIfc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Cacheable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/CacheableInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/StudentServiceIfc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/AddressEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/AddressRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/Init.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/MyUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/statimport/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/statimport1/TestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/qa/src/test/java/bg/softuni/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/questions/questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/CronSchedulerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/FixedDelaySchedulerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/FixedRateScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/SchedulesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/schedules/src/test/java/bg/softuni/schedules/SchedulesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/split/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/AleBeerMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/BartenderClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/BeerMachineIfc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/CLITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/LagerBeerMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/Untestable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/test/java/bg/softuni/test/TestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAdvanced/test/src/test/java/bg/softuni/test/di/BartenderClassTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,10 +596,6 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/MobileleleApplication.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -238,110 +698,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SpringData" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EXAMS.spaceStation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefendingClasses.Ex.OpinionPool.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DefendingClasses.Ex.OpinionPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.cresla.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.cresla.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.viceCity.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.viceCity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HibernateCodeFirst" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -469,6 +825,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,6 +976,19 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXAMS.spaceStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.wildFarm.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
@@ -651,6 +1033,84 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exam.P26Oct2020.rabits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefendingClasses.Ex.OpinionPool.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefendingClasses.Ex.OpinionPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.cresla.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.cresla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.viceCity.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.viceCity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HibernateCodeFirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1196,34 +1656,7 @@
       <workItem from="1640100143906" duration="396000" />
       <workItem from="1640209098268" duration="117000" />
       <workItem from="1640209331728" duration="507000" />
-    </task>
-    <task id="LOCAL-00941" summary="new homework">
-      <created>1639087350591</created>
-      <option name="number" value="00941" />
-      <option name="presentableId" value="LOCAL-00941" />
-      <option name="project" value="LOCAL" />
-      <updated>1639087350591</updated>
-    </task>
-    <task id="LOCAL-00942" summary="new homework">
-      <created>1639087391136</created>
-      <option name="number" value="00942" />
-      <option name="presentableId" value="LOCAL-00942" />
-      <option name="project" value="LOCAL" />
-      <updated>1639087391136</updated>
-    </task>
-    <task id="LOCAL-00943" summary="new homework">
-      <created>1639087401085</created>
-      <option name="number" value="00943" />
-      <option name="presentableId" value="LOCAL-00943" />
-      <option name="project" value="LOCAL" />
-      <updated>1639087401085</updated>
-    </task>
-    <task id="LOCAL-00944" summary="new homework">
-      <created>1639295195586</created>
-      <option name="number" value="00944" />
-      <option name="presentableId" value="LOCAL-00944" />
-      <option name="project" value="LOCAL" />
-      <updated>1639295195587</updated>
+      <workItem from="1640291946003" duration="929000" />
     </task>
     <task id="LOCAL-00945" summary="new homework">
       <created>1639295219738</created>
@@ -1540,7 +1973,35 @@
       <option name="project" value="LOCAL" />
       <updated>1640209428475</updated>
     </task>
-    <option name="localTasksCounter" value="990" />
+    <task id="LOCAL-00990" summary="new homework">
+      <created>1640291989530</created>
+      <option name="number" value="00990" />
+      <option name="presentableId" value="LOCAL-00990" />
+      <option name="project" value="LOCAL" />
+      <updated>1640291989530</updated>
+    </task>
+    <task id="LOCAL-00991" summary="new homework">
+      <created>1640292006641</created>
+      <option name="number" value="00991" />
+      <option name="presentableId" value="LOCAL-00991" />
+      <option name="project" value="LOCAL" />
+      <updated>1640292006641</updated>
+    </task>
+    <task id="LOCAL-00992" summary="new homework">
+      <created>1640292021151</created>
+      <option name="number" value="00992" />
+      <option name="presentableId" value="LOCAL-00992" />
+      <option name="project" value="LOCAL" />
+      <updated>1640292021151</updated>
+    </task>
+    <task id="LOCAL-00993" summary="new homework">
+      <created>1640292732194</created>
+      <option name="number" value="00993" />
+      <option name="presentableId" value="LOCAL-00993" />
+      <option name="project" value="LOCAL" />
+      <updated>1640292732194</updated>
+    </task>
+    <option name="localTasksCounter" value="994" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
