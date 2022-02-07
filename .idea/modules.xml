@@ -15,8 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/SpringFundamentals/SpringFundamentals.iml" filepath="$PROJECT_DIR$/SpringFundamentals/SpringFundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/XML/XML.iml" filepath="$PROJECT_DIR$/src/SpringData/XML/XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/SpringDataAdvancedQuering/advquerying.iml" filepath="$PROJECT_DIR$/src/SpringData/SpringDataAdvancedQuering/advquerying.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam3/exam (2).iml" filepath="$PROJECT_DIR$/src/SpringData/Exam3/exam (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam4/exam (3).iml" filepath="$PROJECT_DIR$/src/SpringData/Exam4/exam (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/src/SpringData/Exam2/instagraph.iml" filepath="$PROJECT_DIR$/src/SpringData/Exam2/instagraph.iml" />
     </modules>
   </component>
