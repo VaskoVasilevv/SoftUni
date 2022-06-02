@@ -1286,110 +1286,6 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.CounterStriker.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.aquarium.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.aquarium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.trafficLights.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.trafficLights.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Lab.animals.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Polymorphism.Lab.animals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoggerLib.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LoggerLib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.calculator.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Polymorphism.Ex.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.Main" />
       <module name="SoftUni" />
       <extension name="coverage">
@@ -1512,6 +1408,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.bakery.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.bakery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1650,6 +1559,19 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.CounterStriker.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
       <module name="JavaOOP" />
       <extension name="coverage">
@@ -1694,6 +1616,84 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="IteratorsAndComperators.Ex.ComparingObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.aquarium.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.trafficLights.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.trafficLights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Lab.animals.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Lab.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerLib.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerLib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.calculator.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -2098,14 +2098,14 @@
       <item itemvalue="Spring Boot.TestApplication" />
       <item itemvalue="Spring Boot.KotlinApplication" />
       <item itemvalue="Spring Boot.CookiesApplication" />
+      <item itemvalue="Spring Boot.ExamApplication (9)" />
+      <item itemvalue="Spring Boot.ExamPrep2Application (1)" />
       <item itemvalue="Spring Boot.ExamApplication (2)" />
       <item itemvalue="Spring Boot.ExamApplication (3)" />
       <item itemvalue="Spring Boot.HomeworkApplication" />
       <item itemvalue="Spring Boot.InstagraphLiteApplication" />
       <item itemvalue="Spring Boot.JsonProcessingApplication" />
       <item itemvalue="Spring Boot.XmlApplication" />
-      <item itemvalue="Spring Boot.ExamApplication (9)" />
-      <item itemvalue="Spring Boot.ExamPrep2Application (1)" />
     </list>
     <recent_temporary>
       <list>
