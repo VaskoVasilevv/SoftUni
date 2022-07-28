@@ -13,6 +13,7 @@
         <module name="HibernateCodeFirst" />
         <module name="exam (2)" />
         <module name="exam (3)" />
+        <module name="exam (1) (soft-uni)" />
         <module name="MusicDB" />
       </profile>
     </annotationProcessing>
@@ -22,7 +23,6 @@
       <module name="AutoMappingObj" target="12" />
       <module name="Exam" target="1.5" />
       <module name="exam" target="12" />
-      <module name="exam (1) (soft-uni)" target="12" />
       <module name="Exam2" target="15" />
       <module name="Exam3" target="12" />
       <module name="Exam4" target="11" />
