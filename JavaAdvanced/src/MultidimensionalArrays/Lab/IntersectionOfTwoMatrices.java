@@ -12,7 +12,6 @@ public class IntersectionOfTwoMatrices {
 
         char[][] first = readMatrix(scanner, rows, cowls);
         char[][] second = readMatrix(scanner, rows, cowls);
-
         char[][] output = new char[rows][cowls];
 
         for (int row = 0; row < rows; row++) {
