@@ -8,403 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232c3b59-eed6-4ac0-8c75-def5817a6fd9" name="Default Changelist" comment="new homework">
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/PRtest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/modifying/ModifyingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/modifying/ModifyingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/DriverController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/SLOAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/SLOsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/aop/src/main/java/bg/softuni/aop/sla/TrackLatency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/local/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/books/src/main/resources/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/booksclient/src/main/java/bg/softuni/booksclient/config/RestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/CloudinaryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/config/CloudinaryConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/binding/PictureBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/entity/PictureEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/model/view/PictureViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/repository/PictureRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/CloudinaryImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/CloudinaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/service/impl/CloudinaryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/main/java/bg/softuni/cloudinary/web/PicturesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cloudinary/src/test/java/bg/softuni/cloudinary/CloudinaryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/java/bg/softuni/cookies/CookiesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/java/bg/softuni/cookies/web/CookieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/src/main/resources/templates/cookies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cookies/src/test/java/bg/softuni/cookies/CookiesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cssgrid/gridsample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/cssgrid/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/ErrorsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/ObjectNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/OrdersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/java/bg/softuni/errors/web/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/main/resources/templates/object-not-found.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/errors/src/test/java/bg/softuni/errors/ErrorsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/EventsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/OrderCreatedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/src/main/java/bg/softuni/events/orderlisteners/ProductQuantityCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/events/src/test/java/bg/softuni/events/EventsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/forms/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/forms/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/HateoasApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/dto/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/dto/StudentDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/CourseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/OrderEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/entity/StudentEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/mapping/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/model/mapping/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/repository/StudentsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/java/bg/softuni/hateoas/web/StudentsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/hateoas/src/test/java/bg/softuni/hateoas/HateoasApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/I18nApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/java/bg/softuni/i18n/web/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages_bg.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/i18n/messages_de.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/i18n/src/test/java/bg/softuni/i18n/I18nApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/KotlinApplication.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/service/GreeterService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/service/GreeterServiceImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/kotlin/bg/softuni/kotlin/web/GreeterController.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/kotlin/src/test/kotlin/bg/softuni/kotlin/KotlinApplicationTests.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/DBInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/LazyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/CommentEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/PostEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/crossjoin/TagEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/nplus1/RoleEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/model/nplus1/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/PostRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/crossjoin/TagRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/nplus1/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/repository/nplus1/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/web/CrossJoinController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/main/java/bg/softuni/lazy/web/NPlus1Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/lazy/src/test/java/bg/softuni/lazy/LazyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/.jpb/persistence-units.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/local/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/local/prometheus.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/MobileleleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/MobileleMethodSecurityExpressionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/OwnerSecurityExpressionRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/config/WebConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/init/DBInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/OfferAddBindModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/OfferUpdateBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/UserRegistrationBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/binding/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/ModelEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/OfferEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/UserRoleEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/EngineEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/TransmissionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/enums/UserRoleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/entity/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/ModelServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/OfferAddServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/OfferUpdateServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/UserLoginServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/UserRegistrationServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/service/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/validator/UniqueUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/validator/UniqueUserNameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/ModelViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/OfferDetailsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/OfferSummaryView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/StatsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/model/view/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/ModelRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/OfferRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/repository/UserRoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/ModelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/OfferService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/StatsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/MobileleUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/MobileleUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/ModelServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/OfferServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/StatsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/service/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/LoggerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/OffersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/StatsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/UserLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/UserRegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/exception/ObjectNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/interceptor/StatsInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/java/bg/softuni/mobilelele/web/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/css/reset-css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/images/user-avatar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/static/js/jquery-3.5.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/fragments/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/offer-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/offers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/stats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/main/resources/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/mobilelele/src/test/java/bg/softuni/mobilelele/MobileleleApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/deployment/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/local/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/PathfinderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/binding/NewCommentBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/binding/RouteAddBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/binding/UserLoginBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/binding/UserRegisterBindingModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Route.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/enums/LevelEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/enums/RoleNameEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/service/CommentServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/service/RouteServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/service/UserServiceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/view/CommentViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/view/RouteDetailsViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/view/RouteViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/view/UserViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/repository/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/repository/PictureRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/repository/RouteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/PictureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/RouteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/exceptions/ObjectNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/CommentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/PathfinderUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/PictureServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/RouteServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/web/CommentRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/web/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/web/RouteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/web/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/web/UserLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/css/mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/cloudy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/difficulty-level.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/most-commented.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/motorcycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/pedestrian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/rainy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/site-bgr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/js/comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/js/weather.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/car.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/fragments/commons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/motorcycle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/pedestrian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/route-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/routes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/test/java/com/example/patfinderd/PatfinderdApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/test/java/com/example/patfinderd/service/impl/PathfinderUserDetailsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/test/java/com/example/patfinderd/web/CommentRestControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/test/java/com/example/patfinderd/web/UserControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/7.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Cacheable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/CacheableInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/StudentServiceIfc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/classes/java/main/bg/softuni/student/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Cacheable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/CacheableInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/StudentServiceIfc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/proxies/src/main/java/bg/softuni/student/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/cascade/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/MyUserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/reflection/UserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/statimport/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/main/java/bg/softuni/demo/statimport1/TestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/qa/src/test/java/bg/softuni/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/questions/questions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/CronSchedulerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/FixedDelaySchedulerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/FixedRateScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/src/main/java/bg/softuni/schedules/SchedulesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/schedules/src/test/java/bg/softuni/schedules/SchedulesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/split/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/TestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/CLITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/LagerBeerMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/src/main/java/bg/softuni/test/di/Untestable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAdvanced/test/src/test/java/bg/softuni/test/TestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/src/Arrays/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultidimensionalArrays/Exercise/Vaso.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/Homework.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/CommandLineRunnerImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/SpringintroApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/cofiguration/ApplicationBeenConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/AgeRestriction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/EditionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/AuthorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/AuthorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/AuthorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/authors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/books.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/categories.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/test/java/com/example/springintro/SpringintroApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -412,14 +24,9 @@
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/CommandLineRunnerIpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/HomeworkApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/config/ApplicationBeenConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/AddGameDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/EditGameDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/UserLoginDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/UserRegisterDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/Game.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/Order.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/User.java" afterDir="false" />
@@ -431,16 +38,13 @@
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/util/ValidationUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/util/ValidationUtilImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/test/java/com/example/homework/HomeworkApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/Homework.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/Homework.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/P02_GetVillainsNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/P03_GetMinionsNames.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/sql/minions_db.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Homework/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Lab/sql/diablo_database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Lab/sql/soft_uni_database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -449,7 +53,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/FootballApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/config/ApplicationBeanConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/PlayerSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/PlayerSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/StatIdDto.java" afterDir="false" />
@@ -459,7 +62,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/TeamSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/TownNameDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/dto/TownSeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/entity/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/entity/Player.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/entity/Stat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/models/entity/Team.java" afterDir="false" />
@@ -481,65 +83,46 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/util/impl/ValidationUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/util/impl/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/com/example/football/web/controllers/ImportController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/ExamApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/ServletInitializer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/adptor/LocalDateTimeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/config/ApplicationBeanConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/CarIdDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/CarsSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/OfferSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/OfferSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/PictureSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/SellerIdDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/SellerSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/dto/SellerSeedRootDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/entity/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/entity/Offer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/entity/Picture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/entity/Seller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/models/enums/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/repository/CarRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/repository/OfferRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/repository/PictureRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/repository/SellerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/CarService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/OfferService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/PictureService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/SellerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/impl/CarServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/impl/OfferServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/impl/PictureServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/service/impl/SellerServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/util/ValidationUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/util/impl/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/java/softuni/exam/web/controllers/ImportController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/cars.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/pictures.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/teams.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/towns.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/xml/offers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/xml/players.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/xml/sellers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/xml/stats.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/background1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/ball3.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/football.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/export/export-best-players.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/export/export-cars-by-pictures.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/fragments/base-layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/fragments/footer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/fragments/head.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
@@ -564,14 +147,12 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/InstagraphLiteApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/config/ApplicationBeanConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/PicturePathDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/PictureSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/PostSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/PostSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/UserSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/dto/UserUsernameDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/entity/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/entity/Picture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/entity/Post.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/models/entity/User.java" afterDir="false" />
@@ -588,20 +169,16 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/util/ValidatorUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/util/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/java/softuni/exam/instagraphlite/web/controllers/ImportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/files/pictures.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/files/posts.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/files/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/export/export-pictures.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/export/export-users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/fragments/base-layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/fragments/footer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/fragments/head.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
@@ -619,7 +196,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/ExamApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/config/ApplicationBeanConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/PassengerEmailDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/PassengerSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/PlaneRegisterNumberDto.java" afterDir="false" />
@@ -629,7 +205,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/TicketSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/TicketSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/dto/TownNameDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/entity/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/entity/Passenger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/entity/Plane.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/models/entity/Ticket.java" afterDir="false" />
@@ -650,7 +225,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/util/impl/ValidatorUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/util/impl/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/java/softuni/exam/web/controllers/ImportController.java" afterDir="false" />
@@ -658,12 +232,8 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/files/json/towns.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/files/xml/planes.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/files/xml/tickets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/templates/export/export-passengers-by-tickets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/templates/fragments/base-layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/templates/fragments/footer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/templates/fragments/head.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
@@ -683,19 +253,16 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/ExamApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/config/ApplicationBeanConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/dto/PictureSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/dto/PictureSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/dto/PlayerSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/dto/TeamSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/dto/TeamSeedRootDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/entities/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/entities/Picture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/entities/Player.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/domain/entities/Team.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/repository/PictureRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/repository/PlayerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/repository/TeamRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/service/PictureService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/service/PlayerService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/service/TeamService.java" afterDir="false" />
@@ -708,20 +275,15 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/util/ValidatorUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/util/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/web/controllers/ImportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/files/json/players.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/files/xml/pictures.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/files/xml/teams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/export/export-players-with-salary-bigger.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/export/export-team-players.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/fragments/base-layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/fragments/footer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/fragments/head.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
@@ -739,34 +301,17 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/HiberSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/common/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/config/ApplicationBeanConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/BranchesSeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/EmployeeCardSeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/EmployeeSeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/EmployeeSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/ProductSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/ProductSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/TownNameDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/dtos/TownSeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/EmployeeCard.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/domain/entities/Town.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/repository/BranchRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/repository/EmployeeCardRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/repository/EmployeeRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/repository/ProductRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/repository/TownRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/BranchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/EmployeeCardService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/EmployeeService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/ProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/TownService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/impl/BranchServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/impl/EmployeeCardServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/impl/EmployeeServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/impl/ProductServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/service/impl/TownServiceImpl.java" afterDir="false" />
@@ -776,21 +321,14 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/util/impl/FileUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/util/impl/ValidationUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/util/impl/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/web/controllers/BaseController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/web/controllers/ExportController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/web/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/java/hiberspring/web/controllers/ImportController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/files/branches.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/files/employee-cards.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/files/employees.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/files/products.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/files/towns.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/export/export-productive-employees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/fragments/base-layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/fragments/footer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/fragments/head.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
@@ -804,14 +342,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/templates/xml/import-xml.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BillingDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Costumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CreditCard.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Sale.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/StoreLocation.java" afterDir="false" />
@@ -822,9 +352,6 @@
       <change afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/Engine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Project.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Town.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Lab/Main.java" afterDir="false" />
@@ -839,36 +366,23 @@
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/CommandLineRunnerImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/JsonProcessingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/config/ApplicationBeenConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/constants/GlobalConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategoryByProductsCountDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategorySeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/ProductNameAndPriceDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/ProductSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/ProductWithBuyerDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/UserSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/UserSoldDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/Category.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/repository/CategoryRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/repository/ProductRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/CategoryService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/ProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/impl/CategoryServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/impl/ProductServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/util/ValidationUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/util/impl/ValidationUtilImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/cars.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/customers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/out/categories-by-products.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/out/products-in-range.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/out/user-and-sold-products.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/parts.json" afterDir="false" />
@@ -882,68 +396,35 @@
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/AdvqueryingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/BaseEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/Ingredient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/Label.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/Shampoo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/test/java/com/example/advquerying/AdvqueryingApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/ConsoleRunner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/SpringDataIntroApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/repositories/AccountRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/services/AccountService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/services/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/services/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/CommandLineRunnerImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/SpringDataIntroExerciseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/AgeRestriction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/EditionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/AuthorsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/AuthorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/AuthorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/authors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/books.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/categories.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/test/java/com/example/springdataintroexercise/SpringDataIntroExerciseApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/Homework.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/CommandLineRunner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/XmlApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/config/ApplicationBeenConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoriesViewRootDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedRootDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoryViewNameDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/ProductSeedDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/ProductSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/ProductVewRootDto.java" afterDir="false" />
@@ -953,116 +434,34 @@
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/UserSeedRootDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/UserWithProductsDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/UsersViewRootDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/Category.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/reposirtory/CategoryRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/reposirtory/ProductRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/reposirtory/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/CategoryService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/ProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/impl/CategoryServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/impl/ProductServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/util/ValidationUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/util/ValidationUtilImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/util/XmlParser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/util/XmlParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/cars.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/categories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/customers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/out/products-in-range.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/out/sold-products.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/parts.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/products.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/suppliers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/test/java/com/example/xml/XmlApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/ApplicationStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Column.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Entity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Id.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/core/EntityManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/core/EntityManagerFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/core/EntityManagerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/config/ApplicationBeanConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/config/ApplicationBeanConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/config/ApplicationSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/config/ApplicationSecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/model/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/model/entity/enums/CategoryNameEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/entity/enums/CategoryNameEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/model/validation/ApiError.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/model/validation/ApiError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/repository/CategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/java/com/example/patfinderd/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/java/com/example/patfinderd/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/add-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/add-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/amazing-routes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/amazing-routes.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/bicycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/bicycle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/car.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/01d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/01d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/01n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/01n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/02d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/02d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/02n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/02n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/03d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/03d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/03n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/03n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/04d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/04d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/04n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/04n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/09d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/09d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/09n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/09n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/10d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/10d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/10n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/10n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/11d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/11d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/11n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/11n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/13d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/13d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/13n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/13n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/50d.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/50d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/images/weather-icons/50n.png" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/images/weather-icons/50n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/templates/add-route.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/add-route.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/main/resources/templates/bicycle.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/main/resources/templates/bicycle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAdvanced/pathfinder/src/test/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAdvanced/pathfinder-master/src/test/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/pics/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam2/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam3/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/pics/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/pics/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam4/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam5/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam5/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/models/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/XML/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1152,8 +551,8 @@
         <option value="JpaEntity" />
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -1169,7 +568,7 @@
     </file-type-list>
   </component>
   <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="2" />
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -1195,6 +594,16 @@
       </map>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1levKISaUVAYXaEC2Uok4ksMukD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -1203,44 +612,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="ignore.preview.features.used" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="last.edited.regexp" value="||" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/SpringFundamentals/WebApplication/src/main" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/SoftUni/VaskoNewRepo&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="softuni.exam.models.entity" />
       <recent name="com.example.exmapreparation.model.binding" />
       <recent name="com.example.examprep2.service.impl" />
       <recent name="bg.softuni.pathfinder.service.impl" />
       <recent name="bg.softuni.pathfinder.model.enums" />
-      <recent name="hiberspring.domain.dtos" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\NewRepository" />
@@ -1275,217 +660,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SpringData" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
-      <module name="Java OOP" />
+  <component name="RunManager" selected="Application.ExamApplication">
+    <configuration name="ExamApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softuni.exam.ExamApplication" />
+      <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HibernateCodeFirst" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.Main" />
-      <module name="SoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Lab.ComparableBook.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IteratorsAndComperators.Lab.ComparableBook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.vehicles.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Polymorphism.Ex.vehicles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.CounterStriker.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spaceStation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Ex.CustomList.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.Ex.CustomList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Lab.sortByNAmeAndAge_01.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Encapsulation.Lab.sortByNAmeAndAge_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vetClinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Ex.ComparingObjects.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IteratorsAndComperators.Ex.ComparingObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.aquarium.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.aquarium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Lab.GenericScale.Main" />
-      <module name="SoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.Lab.GenericScale.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.trafficLights.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.trafficLights.*" />
+          <option name="PATTERN" value="softuni.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1507,11 +688,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoggerLib.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HibernateCodeFirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.vehicles.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoggerLib.*" />
+          <option name="PATTERN" value="Polymorphism.Ex.vehicles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1520,11 +714,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.calculator.Main" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.aquarium.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.Ex.calculator.*" />
+          <option name="PATTERN" value="ExamPreparation_1.aquarium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1533,76 +727,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.onlineShop.Main" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.CounterStriker.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation_2.onlineShop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bakery.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardRank_02.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardSuit_01.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstraction.Ex.cardSuit_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.MultipleImplementation.Main" />
-      <module name="Java OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.MultipleImplementation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EXAMS.spaceStation.*" />
+          <option name="PATTERN" value="ExamPreparation_2.CounterStriker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1637,6 +766,123 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.cresla.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_1.cresla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.onlineShop.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.onlineShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Lab.sortByNAmeAndAge_01.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.Lab.sortByNAmeAndAge_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Lab.GenericScale.Main" />
+      <module name="SoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Lab.GenericScale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bakery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesAndAbstracion.Ex.army.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacesAndAbstracion.Ex.army.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.Main" />
+      <module name="SoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.src.DefendingClasses.Ex.CompanyRoster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXAMS.spaceStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam.P26Oct2020.rabits.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
@@ -1650,11 +896,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefendingClasses.Ex.OpinionPool.Main" />
-      <module name="JavaAdvanced" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.viceCity.Main" />
+      <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DefendingClasses.Ex.OpinionPool.*" />
+          <option name="PATTERN" value="ExamPreparation_1.viceCity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1663,11 +909,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.cresla.Main" />
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardRank_02.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.cresla.*" />
+          <option name="PATTERN" value="Abstraction.Ex.cardRank_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Ex.CustomList.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Ex.CustomList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorsAndComperators.Ex.ComparingObjects.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorsAndComperators.Ex.ComparingObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.trafficLights.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.trafficLights.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1689,11 +974,128 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation_1.viceCity.Main" />
+      <option name="MAIN_CLASS_NAME" value="EXAMS.spaceStation.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spaceStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetClinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefendingClasses.Ex.OpinionPool.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefendingClasses.Ex.OpinionPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation_2.easterRaces.Main" />
       <module name="Java OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation_1.viceCity.*" />
+          <option name="PATTERN" value="ExamPreparation_2.easterRaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Ex.calculator.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.Ex.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Ex.cardSuit_01.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.Ex.cardSuit_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerLib.Main" />
+      <module name="Java OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerLib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Test" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vaso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.Exercise.Vaso" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultidimensionalArrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.demo" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1793,20 +1195,6 @@
     </configuration>
     <configuration name="ExamApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="exam (3)" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.ExamApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExamApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="Exam" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.ExamApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExamApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="Exam3" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.ExamApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1921,19 +1309,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="AutoMappingObjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.homework.HomeworkApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="I18nApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="i18n.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="bg.softuni.i18n.I18nApplication" />
@@ -1944,26 +1319,6 @@
     <configuration name="InstagraphLiteApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="instagraph" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.instagraphlite.InstagraphLiteApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstagraphLiteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="Exam2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.instagraphlite.InstagraphLiteApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JsonProcessingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="JSONProcessing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.jsonprocessing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.jsonprocessing.JsonProcessingApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -2060,7 +1415,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ExamApplication" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Application.Vaso" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExamApplication" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Vaso" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -2203,350 +1570,350 @@
       <workItem from="1640291946003" duration="929000" />
       <workItem from="1644265048011" duration="636000" />
     </task>
-    <task id="LOCAL-00949" summary="new homework">
-      <created>1639410001621</created>
-      <option name="number" value="00949" />
-      <option name="presentableId" value="LOCAL-00949" />
+    <task id="LOCAL-01079" summary="new homework">
+      <created>1666693770155</created>
+      <option name="number" value="01079" />
+      <option name="presentableId" value="LOCAL-01079" />
       <option name="project" value="LOCAL" />
-      <updated>1639410001621</updated>
+      <updated>1666693770155</updated>
     </task>
-    <task id="LOCAL-00950" summary="new homework">
-      <created>1639511944418</created>
-      <option name="number" value="00950" />
-      <option name="presentableId" value="LOCAL-00950" />
+    <task id="LOCAL-01080" summary="new homework">
+      <created>1666763391891</created>
+      <option name="number" value="01080" />
+      <option name="presentableId" value="LOCAL-01080" />
       <option name="project" value="LOCAL" />
-      <updated>1639511944418</updated>
+      <updated>1666763391891</updated>
     </task>
-    <task id="LOCAL-00951" summary="new homework">
-      <created>1639511964168</created>
-      <option name="number" value="00951" />
-      <option name="presentableId" value="LOCAL-00951" />
+    <task id="LOCAL-01081" summary="new homework">
+      <created>1666763407046</created>
+      <option name="number" value="01081" />
+      <option name="presentableId" value="LOCAL-01081" />
       <option name="project" value="LOCAL" />
-      <updated>1639511964168</updated>
+      <updated>1666763407046</updated>
     </task>
-    <task id="LOCAL-00952" summary="new homework">
-      <created>1639511978417</created>
-      <option name="number" value="00952" />
-      <option name="presentableId" value="LOCAL-00952" />
+    <task id="LOCAL-01082" summary="new homework">
+      <created>1666763417729</created>
+      <option name="number" value="01082" />
+      <option name="presentableId" value="LOCAL-01082" />
       <option name="project" value="LOCAL" />
-      <updated>1639511978417</updated>
+      <updated>1666763417729</updated>
     </task>
-    <task id="LOCAL-00953" summary="new homework">
-      <created>1639667353513</created>
-      <option name="number" value="00953" />
-      <option name="presentableId" value="LOCAL-00953" />
+    <task id="LOCAL-01083" summary="new homework">
+      <created>1666763429500</created>
+      <option name="number" value="01083" />
+      <option name="presentableId" value="LOCAL-01083" />
       <option name="project" value="LOCAL" />
-      <updated>1639667353513</updated>
+      <updated>1666763429500</updated>
     </task>
-    <task id="LOCAL-00954" summary="new homework">
-      <created>1639667368122</created>
-      <option name="number" value="00954" />
-      <option name="presentableId" value="LOCAL-00954" />
+    <task id="LOCAL-01084" summary="new homework">
+      <created>1666849968234</created>
+      <option name="number" value="01084" />
+      <option name="presentableId" value="LOCAL-01084" />
       <option name="project" value="LOCAL" />
-      <updated>1639667368122</updated>
+      <updated>1666849968234</updated>
     </task>
-    <task id="LOCAL-00955" summary="new homework">
-      <created>1639667382428</created>
-      <option name="number" value="00955" />
-      <option name="presentableId" value="LOCAL-00955" />
+    <task id="LOCAL-01085" summary="new homework">
+      <created>1666850259393</created>
+      <option name="number" value="01085" />
+      <option name="presentableId" value="LOCAL-01085" />
       <option name="project" value="LOCAL" />
-      <updated>1639667382428</updated>
+      <updated>1666850259393</updated>
     </task>
-    <task id="LOCAL-00956" summary="new homework">
-      <created>1639667401404</created>
-      <option name="number" value="00956" />
-      <option name="presentableId" value="LOCAL-00956" />
+    <task id="LOCAL-01086" summary="new homework">
+      <created>1666850279812</created>
+      <option name="number" value="01086" />
+      <option name="presentableId" value="LOCAL-01086" />
       <option name="project" value="LOCAL" />
-      <updated>1639667401404</updated>
+      <updated>1666850279813</updated>
     </task>
-    <task id="LOCAL-00957" summary="new homework">
-      <created>1639743633658</created>
-      <option name="number" value="00957" />
-      <option name="presentableId" value="LOCAL-00957" />
+    <task id="LOCAL-01087" summary="new homework">
+      <created>1666850299795</created>
+      <option name="number" value="01087" />
+      <option name="presentableId" value="LOCAL-01087" />
       <option name="project" value="LOCAL" />
-      <updated>1639743633658</updated>
+      <updated>1666850299796</updated>
     </task>
-    <task id="LOCAL-00958" summary="new homework">
-      <created>1639743644393</created>
-      <option name="number" value="00958" />
-      <option name="presentableId" value="LOCAL-00958" />
+    <task id="LOCAL-01088" summary="new homework">
+      <created>1666987598111</created>
+      <option name="number" value="01088" />
+      <option name="presentableId" value="LOCAL-01088" />
       <option name="project" value="LOCAL" />
-      <updated>1639743644393</updated>
+      <updated>1666987598111</updated>
     </task>
-    <task id="LOCAL-00959" summary="new homework">
-      <created>1639743656237</created>
-      <option name="number" value="00959" />
-      <option name="presentableId" value="LOCAL-00959" />
+    <task id="LOCAL-01089" summary="new homework">
+      <created>1666987610038</created>
+      <option name="number" value="01089" />
+      <option name="presentableId" value="LOCAL-01089" />
       <option name="project" value="LOCAL" />
-      <updated>1639743656237</updated>
+      <updated>1666987610038</updated>
     </task>
-    <task id="LOCAL-00960" summary="new homework">
-      <created>1639852036687</created>
-      <option name="number" value="00960" />
-      <option name="presentableId" value="LOCAL-00960" />
+    <task id="LOCAL-01090" summary="new homework">
+      <created>1666987621271</created>
+      <option name="number" value="01090" />
+      <option name="presentableId" value="LOCAL-01090" />
       <option name="project" value="LOCAL" />
-      <updated>1639852036687</updated>
+      <updated>1666987621271</updated>
     </task>
-    <task id="LOCAL-00961" summary="new homework">
-      <created>1639852134268</created>
-      <option name="number" value="00961" />
-      <option name="presentableId" value="LOCAL-00961" />
+    <task id="LOCAL-01091" summary="new homework">
+      <created>1667072673448</created>
+      <option name="number" value="01091" />
+      <option name="presentableId" value="LOCAL-01091" />
       <option name="project" value="LOCAL" />
-      <updated>1639852134268</updated>
+      <updated>1667072673448</updated>
     </task>
-    <task id="LOCAL-00962" summary="new homework">
-      <created>1639852191806</created>
-      <option name="number" value="00962" />
-      <option name="presentableId" value="LOCAL-00962" />
+    <task id="LOCAL-01092" summary="new homework">
+      <created>1667072684886</created>
+      <option name="number" value="01092" />
+      <option name="presentableId" value="LOCAL-01092" />
       <option name="project" value="LOCAL" />
-      <updated>1639852191806</updated>
+      <updated>1667072684886</updated>
     </task>
-    <task id="LOCAL-00963" summary="new homework">
-      <created>1639852258950</created>
-      <option name="number" value="00963" />
-      <option name="presentableId" value="LOCAL-00963" />
+    <task id="LOCAL-01093" summary="new homework">
+      <created>1667072695555</created>
+      <option name="number" value="01093" />
+      <option name="presentableId" value="LOCAL-01093" />
       <option name="project" value="LOCAL" />
-      <updated>1639852258950</updated>
+      <updated>1667072695555</updated>
     </task>
-    <task id="LOCAL-00964" summary="new homework">
-      <created>1639852363015</created>
-      <option name="number" value="00964" />
-      <option name="presentableId" value="LOCAL-00964" />
+    <task id="LOCAL-01094" summary="new homework">
+      <created>1667112694374</created>
+      <option name="number" value="01094" />
+      <option name="presentableId" value="LOCAL-01094" />
       <option name="project" value="LOCAL" />
-      <updated>1639852363015</updated>
+      <updated>1667112694375</updated>
     </task>
-    <task id="LOCAL-00965" summary="new homework">
-      <created>1639852405105</created>
-      <option name="number" value="00965" />
-      <option name="presentableId" value="LOCAL-00965" />
+    <task id="LOCAL-01095" summary="new homework">
+      <created>1667112709507</created>
+      <option name="number" value="01095" />
+      <option name="presentableId" value="LOCAL-01095" />
       <option name="project" value="LOCAL" />
-      <updated>1639852405105</updated>
+      <updated>1667112709507</updated>
     </task>
-    <task id="LOCAL-00966" summary="new homework">
-      <created>1639852451122</created>
-      <option name="number" value="00966" />
-      <option name="presentableId" value="LOCAL-00966" />
+    <task id="LOCAL-01096" summary="new homework">
+      <created>1667112730104</created>
+      <option name="number" value="01096" />
+      <option name="presentableId" value="LOCAL-01096" />
       <option name="project" value="LOCAL" />
-      <updated>1639852451122</updated>
+      <updated>1667112730104</updated>
     </task>
-    <task id="LOCAL-00967" summary="new homework">
-      <created>1639852516110</created>
-      <option name="number" value="00967" />
-      <option name="presentableId" value="LOCAL-00967" />
+    <task id="LOCAL-01097" summary="new homework">
+      <created>1667389563957</created>
+      <option name="number" value="01097" />
+      <option name="presentableId" value="LOCAL-01097" />
       <option name="project" value="LOCAL" />
-      <updated>1639852516110</updated>
+      <updated>1667389563958</updated>
     </task>
-    <task id="LOCAL-00968" summary="new homework">
-      <created>1639852531150</created>
-      <option name="number" value="00968" />
-      <option name="presentableId" value="LOCAL-00968" />
+    <task id="LOCAL-01098" summary="new homework">
+      <created>1667389606853</created>
+      <option name="number" value="01098" />
+      <option name="presentableId" value="LOCAL-01098" />
       <option name="project" value="LOCAL" />
-      <updated>1639852531150</updated>
+      <updated>1667389606853</updated>
     </task>
-    <task id="LOCAL-00969" summary="new homework">
-      <created>1639852581209</created>
-      <option name="number" value="00969" />
-      <option name="presentableId" value="LOCAL-00969" />
+    <task id="LOCAL-01099" summary="new homework">
+      <created>1667389617829</created>
+      <option name="number" value="01099" />
+      <option name="presentableId" value="LOCAL-01099" />
       <option name="project" value="LOCAL" />
-      <updated>1639852581209</updated>
+      <updated>1667389617829</updated>
     </task>
-    <task id="LOCAL-00970" summary="new homework">
-      <created>1639852642510</created>
-      <option name="number" value="00970" />
-      <option name="presentableId" value="LOCAL-00970" />
+    <task id="LOCAL-01100" summary="new homework">
+      <created>1667467753552</created>
+      <option name="number" value="01100" />
+      <option name="presentableId" value="LOCAL-01100" />
       <option name="project" value="LOCAL" />
-      <updated>1639852642510</updated>
+      <updated>1667467753553</updated>
     </task>
-    <task id="LOCAL-00971" summary="new homework">
-      <created>1639852677653</created>
-      <option name="number" value="00971" />
-      <option name="presentableId" value="LOCAL-00971" />
+    <task id="LOCAL-01101" summary="new homework">
+      <created>1667467771580</created>
+      <option name="number" value="01101" />
+      <option name="presentableId" value="LOCAL-01101" />
       <option name="project" value="LOCAL" />
-      <updated>1639852677653</updated>
+      <updated>1667467771580</updated>
     </task>
-    <task id="LOCAL-00972" summary="new homework">
-      <created>1639852774792</created>
-      <option name="number" value="00972" />
-      <option name="presentableId" value="LOCAL-00972" />
+    <task id="LOCAL-01102" summary="new homework">
+      <created>1667467790138</created>
+      <option name="number" value="01102" />
+      <option name="presentableId" value="LOCAL-01102" />
       <option name="project" value="LOCAL" />
-      <updated>1639852774792</updated>
+      <updated>1667467790138</updated>
     </task>
-    <task id="LOCAL-00973" summary="new homework">
-      <created>1639852908997</created>
-      <option name="number" value="00973" />
-      <option name="presentableId" value="LOCAL-00973" />
+    <task id="LOCAL-01103" summary="new homework">
+      <created>1667542716474</created>
+      <option name="number" value="01103" />
+      <option name="presentableId" value="LOCAL-01103" />
       <option name="project" value="LOCAL" />
-      <updated>1639852908997</updated>
+      <updated>1667542716474</updated>
     </task>
-    <task id="LOCAL-00974" summary="new homework">
-      <created>1639853065351</created>
-      <option name="number" value="00974" />
-      <option name="presentableId" value="LOCAL-00974" />
+    <task id="LOCAL-01104" summary="new homework">
+      <created>1667542732619</created>
+      <option name="number" value="01104" />
+      <option name="presentableId" value="LOCAL-01104" />
       <option name="project" value="LOCAL" />
-      <updated>1639853065351</updated>
+      <updated>1667542732620</updated>
     </task>
-    <task id="LOCAL-00975" summary="new homework">
-      <created>1639853087316</created>
-      <option name="number" value="00975" />
-      <option name="presentableId" value="LOCAL-00975" />
+    <task id="LOCAL-01105" summary="new homework">
+      <created>1667542745081</created>
+      <option name="number" value="01105" />
+      <option name="presentableId" value="LOCAL-01105" />
       <option name="project" value="LOCAL" />
-      <updated>1639853087316</updated>
+      <updated>1667542745081</updated>
     </task>
-    <task id="LOCAL-00976" summary="new homework">
-      <created>1639853107598</created>
-      <option name="number" value="00976" />
-      <option name="presentableId" value="LOCAL-00976" />
+    <task id="LOCAL-01106" summary="new homework">
+      <created>1667633937280</created>
+      <option name="number" value="01106" />
+      <option name="presentableId" value="LOCAL-01106" />
       <option name="project" value="LOCAL" />
-      <updated>1639853107598</updated>
+      <updated>1667633937280</updated>
     </task>
-    <task id="LOCAL-00977" summary="new homework">
-      <created>1639944867594</created>
-      <option name="number" value="00977" />
-      <option name="presentableId" value="LOCAL-00977" />
+    <task id="LOCAL-01107" summary="new homework">
+      <created>1667633958582</created>
+      <option name="number" value="01107" />
+      <option name="presentableId" value="LOCAL-01107" />
       <option name="project" value="LOCAL" />
-      <updated>1639944867594</updated>
+      <updated>1667633958583</updated>
     </task>
-    <task id="LOCAL-00978" summary="new homework">
-      <created>1639944880062</created>
-      <option name="number" value="00978" />
-      <option name="presentableId" value="LOCAL-00978" />
+    <task id="LOCAL-01108" summary="new homework">
+      <created>1667633974369</created>
+      <option name="number" value="01108" />
+      <option name="presentableId" value="LOCAL-01108" />
       <option name="project" value="LOCAL" />
-      <updated>1639944880062</updated>
+      <updated>1667633974370</updated>
     </task>
-    <task id="LOCAL-00979" summary="new homework">
-      <created>1639944895611</created>
-      <option name="number" value="00979" />
-      <option name="presentableId" value="LOCAL-00979" />
+    <task id="LOCAL-01109" summary="new homework">
+      <created>1667633989979</created>
+      <option name="number" value="01109" />
+      <option name="presentableId" value="LOCAL-01109" />
       <option name="project" value="LOCAL" />
-      <updated>1639944895611</updated>
+      <updated>1667633989979</updated>
     </task>
-    <task id="LOCAL-00980" summary="new homework">
-      <created>1640007446969</created>
-      <option name="number" value="00980" />
-      <option name="presentableId" value="LOCAL-00980" />
+    <task id="LOCAL-01110" summary="new homework">
+      <created>1667803720987</created>
+      <option name="number" value="01110" />
+      <option name="presentableId" value="LOCAL-01110" />
       <option name="project" value="LOCAL" />
-      <updated>1640007446969</updated>
+      <updated>1667803720987</updated>
     </task>
-    <task id="LOCAL-00981" summary="new homework">
-      <created>1640007471901</created>
-      <option name="number" value="00981" />
-      <option name="presentableId" value="LOCAL-00981" />
+    <task id="LOCAL-01111" summary="new homework">
+      <created>1667803734333</created>
+      <option name="number" value="01111" />
+      <option name="presentableId" value="LOCAL-01111" />
       <option name="project" value="LOCAL" />
-      <updated>1640007471901</updated>
+      <updated>1667803734333</updated>
     </task>
-    <task id="LOCAL-00982" summary="new homework">
-      <created>1640007485766</created>
-      <option name="number" value="00982" />
-      <option name="presentableId" value="LOCAL-00982" />
+    <task id="LOCAL-01112" summary="new homework">
+      <created>1667803751071</created>
+      <option name="number" value="01112" />
+      <option name="presentableId" value="LOCAL-01112" />
       <option name="project" value="LOCAL" />
-      <updated>1640007485766</updated>
+      <updated>1667803751071</updated>
     </task>
-    <task id="LOCAL-00983" summary="new homework">
-      <created>1640100508605</created>
-      <option name="number" value="00983" />
-      <option name="presentableId" value="LOCAL-00983" />
+    <task id="LOCAL-01113" summary="new homework">
+      <created>1667889108490</created>
+      <option name="number" value="01113" />
+      <option name="presentableId" value="LOCAL-01113" />
       <option name="project" value="LOCAL" />
-      <updated>1640100508605</updated>
+      <updated>1667889108490</updated>
     </task>
-    <task id="LOCAL-00984" summary="new homework">
-      <created>1640100524368</created>
-      <option name="number" value="00984" />
-      <option name="presentableId" value="LOCAL-00984" />
+    <task id="LOCAL-01114" summary="new homework">
+      <created>1667889120703</created>
+      <option name="number" value="01114" />
+      <option name="presentableId" value="LOCAL-01114" />
       <option name="project" value="LOCAL" />
-      <updated>1640100524368</updated>
+      <updated>1667889120703</updated>
     </task>
-    <task id="LOCAL-00985" summary="new homework">
-      <created>1640100537806</created>
-      <option name="number" value="00985" />
-      <option name="presentableId" value="LOCAL-00985" />
+    <task id="LOCAL-01115" summary="new homework">
+      <created>1667889138034</created>
+      <option name="number" value="01115" />
+      <option name="presentableId" value="LOCAL-01115" />
       <option name="project" value="LOCAL" />
-      <updated>1640100537806</updated>
+      <updated>1667889138034</updated>
     </task>
-    <task id="LOCAL-00986" summary="new homework">
-      <created>1640209146944</created>
-      <option name="number" value="00986" />
-      <option name="presentableId" value="LOCAL-00986" />
+    <task id="LOCAL-01116" summary="new homework">
+      <created>1668027271888</created>
+      <option name="number" value="01116" />
+      <option name="presentableId" value="LOCAL-01116" />
       <option name="project" value="LOCAL" />
-      <updated>1640209146944</updated>
+      <updated>1668027271888</updated>
     </task>
-    <task id="LOCAL-00987" summary="new homework">
-      <created>1640209245097</created>
-      <option name="number" value="00987" />
-      <option name="presentableId" value="LOCAL-00987" />
+    <task id="LOCAL-01117" summary="new homework">
+      <created>1668027286378</created>
+      <option name="number" value="01117" />
+      <option name="presentableId" value="LOCAL-01117" />
       <option name="project" value="LOCAL" />
-      <updated>1640209245097</updated>
+      <updated>1668027286378</updated>
     </task>
-    <task id="LOCAL-00988" summary="new homework">
-      <created>1640209342365</created>
-      <option name="number" value="00988" />
-      <option name="presentableId" value="LOCAL-00988" />
+    <task id="LOCAL-01118" summary="new homework">
+      <created>1668027297845</created>
+      <option name="number" value="01118" />
+      <option name="presentableId" value="LOCAL-01118" />
       <option name="project" value="LOCAL" />
-      <updated>1640209342365</updated>
+      <updated>1668027297845</updated>
     </task>
-    <task id="LOCAL-00989" summary="new homework">
-      <created>1640209428459</created>
-      <option name="number" value="00989" />
-      <option name="presentableId" value="LOCAL-00989" />
+    <task id="LOCAL-01119" summary="new homework">
+      <created>1668462863319</created>
+      <option name="number" value="01119" />
+      <option name="presentableId" value="LOCAL-01119" />
       <option name="project" value="LOCAL" />
-      <updated>1640209428475</updated>
+      <updated>1668462863319</updated>
     </task>
-    <task id="LOCAL-00990" summary="new homework">
-      <created>1640291989530</created>
-      <option name="number" value="00990" />
-      <option name="presentableId" value="LOCAL-00990" />
+    <task id="LOCAL-01120" summary="new homework">
+      <created>1668462877535</created>
+      <option name="number" value="01120" />
+      <option name="presentableId" value="LOCAL-01120" />
       <option name="project" value="LOCAL" />
-      <updated>1640291989530</updated>
+      <updated>1668462877535</updated>
     </task>
-    <task id="LOCAL-00991" summary="new homework">
-      <created>1640292006641</created>
-      <option name="number" value="00991" />
-      <option name="presentableId" value="LOCAL-00991" />
+    <task id="LOCAL-01121" summary="new homework">
+      <created>1668462889628</created>
+      <option name="number" value="01121" />
+      <option name="presentableId" value="LOCAL-01121" />
       <option name="project" value="LOCAL" />
-      <updated>1640292006641</updated>
+      <updated>1668462889628</updated>
     </task>
-    <task id="LOCAL-00992" summary="new homework">
-      <created>1640292021151</created>
-      <option name="number" value="00992" />
-      <option name="presentableId" value="LOCAL-00992" />
+    <task id="LOCAL-01122" summary="new homework">
+      <created>1668548879688</created>
+      <option name="number" value="01122" />
+      <option name="presentableId" value="LOCAL-01122" />
       <option name="project" value="LOCAL" />
-      <updated>1640292021151</updated>
+      <updated>1668548879688</updated>
     </task>
-    <task id="LOCAL-00993" summary="new homework">
-      <created>1640292732194</created>
-      <option name="number" value="00993" />
-      <option name="presentableId" value="LOCAL-00993" />
+    <task id="LOCAL-01123" summary="new homework">
+      <created>1668548894678</created>
+      <option name="number" value="01123" />
+      <option name="presentableId" value="LOCAL-01123" />
       <option name="project" value="LOCAL" />
-      <updated>1640292732194</updated>
+      <updated>1668548894678</updated>
     </task>
-    <task id="LOCAL-00994" summary="new homework">
-      <created>1644265115915</created>
-      <option name="number" value="00994" />
-      <option name="presentableId" value="LOCAL-00994" />
+    <task id="LOCAL-01124" summary="new homework">
+      <created>1668548919497</created>
+      <option name="number" value="01124" />
+      <option name="presentableId" value="LOCAL-01124" />
       <option name="project" value="LOCAL" />
-      <updated>1644265115915</updated>
+      <updated>1668548919497</updated>
     </task>
-    <task id="LOCAL-00995" summary="new homework">
-      <created>1644265227704</created>
-      <option name="number" value="00995" />
-      <option name="presentableId" value="LOCAL-00995" />
+    <task id="LOCAL-01125" summary="new homework">
+      <created>1668613544992</created>
+      <option name="number" value="01125" />
+      <option name="presentableId" value="LOCAL-01125" />
       <option name="project" value="LOCAL" />
-      <updated>1644265227704</updated>
+      <updated>1668613544994</updated>
     </task>
-    <task id="LOCAL-00996" summary="new homework">
-      <created>1644265241690</created>
-      <option name="number" value="00996" />
-      <option name="presentableId" value="LOCAL-00996" />
+    <task id="LOCAL-01126" summary="new homework">
+      <created>1668613559813</created>
+      <option name="number" value="01126" />
+      <option name="presentableId" value="LOCAL-01126" />
       <option name="project" value="LOCAL" />
-      <updated>1644265241690</updated>
+      <updated>1668613559813</updated>
     </task>
-    <task id="LOCAL-00997" summary="new homework">
-      <created>1644265263190</created>
-      <option name="number" value="00997" />
-      <option name="presentableId" value="LOCAL-00997" />
+    <task id="LOCAL-01127" summary="new homework">
+      <created>1668613571908</created>
+      <option name="number" value="01127" />
+      <option name="presentableId" value="LOCAL-01127" />
       <option name="project" value="LOCAL" />
-      <updated>1644265263190</updated>
+      <updated>1668613571908</updated>
     </task>
-    <option name="localTasksCounter" value="998" />
+    <option name="localTasksCounter" value="1128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2682,7 +2049,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -2959,10 +2325,15 @@
           <line>34</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/MultidimensionalArrays/Exercise/Vaso.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/SpringFundamentals/examPrep2/src/main/java/com/example/examprep2/web/ProductController.java</url>
           <line>25</line>
-          <properties class="com.example.examprep2.web.ProductController" method="&lt;init&gt;">
+          <properties class="com.example.examprep2.web.ProductController">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="171" />

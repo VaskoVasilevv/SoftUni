@@ -55,9 +55,9 @@
         <option value="$PROJECT_DIR$/SpringData/pom.xml" />
         <option value="$PROJECT_DIR$/SpringData/Exam/pom.zip" />
         <option value="$PROJECT_DIR$/SpringFundamentals/examPrep/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringData/Exam/pom.xml" />
         <option value="$PROJECT_DIR$/SpringFundamentals/exam/pom.xml" />
         <option value="$PROJECT_DIR$/SpringFundamentals/MusicExam/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringData/Exam/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -66,7 +66,10 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
   </component>
 </project>
