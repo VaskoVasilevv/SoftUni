@@ -38,6 +38,7 @@
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/util/ValidationUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/util/ValidationUtilImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/test/java/com/example/homework/HomeworkApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/Homework.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/Homework.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/P02_GetVillainsNames.java" afterDir="false" />
@@ -390,6 +391,7 @@
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/suppliers.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/users.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/test/java/com/example/jsonprocessing/JsonProcessingApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringData/SpringData.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
@@ -452,6 +454,7 @@
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/products.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/suppliers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringData/XML/src/test/java/com/example/xml/XmlApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Entity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Id.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/core/EntityManager.java" afterDir="false" />
@@ -459,9 +462,128 @@
       <change afterPath="$PROJECT_DIR$/SpringData/ormFramework/core/EntityManagerImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SpringData/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/CommandLineRunnerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/CommandLineRunnerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/cofiguration/ApplicationBeenConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/cofiguration/ApplicationBeenConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/AgeRestriction.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/AgeRestriction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/EditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/model/entity/EditionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/AuthorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/AuthorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/AuthorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/AuthorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/AuthorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/AuthorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/java/com/example/springintro/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/books.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/books.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/categories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AdvancedQueringExercise/src/main/resources/files/categories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/CommandLineRunnerIpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/CommandLineRunnerIpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/config/ApplicationBeenConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/config/ApplicationBeenConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/AddGameDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/AddGameDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/EditGameDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/dto/EditGameDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/java/com/example/homework/model/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/AutoMappingObj/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/P03_GetMinionsNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Exercise/P03_GetMinionsNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Lab/sql/diablo_database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/DatabaseAccessWithJDBC/Lab/sql/diablo_database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/teams.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/files/json/teams.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam3/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/repository/TeamRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/java/softuni/exam/repository/TeamRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/files/xml/teams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/Exam4/src/main/resources/files/xml/teams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BankUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BillingDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/BillingDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CardType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Costumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Costumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/HibernateCodeFirst/src/main/java/entity/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/IntroductionToHibernate/Exercise/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/CommandLineRunnerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/CommandLineRunnerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/config/ApplicationBeenConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/config/ApplicationBeenConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategoryByProductsCountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategoryByProductsCountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategorySeedDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/dto/CategorySeedDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/model/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/java/com/example/jsonprocessing/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/cars.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/cars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/customers.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/customers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/out/categories-by-products.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/JSONProcessing/src/main/resources/json/out/categories-by-products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/AdvqueryingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/AdvqueryingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/java/com/example/advquerying/entities/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/test/java/com/example/advquerying/AdvqueryingApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataAdvancedQuering/src/test/java/com/example/advquerying/AdvqueryingApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/ConsoleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/ConsoleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/models/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/repositories/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/java/com/example/springdataintro/services/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntro/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/CommandLineRunnerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/CommandLineRunnerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/AgeRestriction.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/AgeRestriction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/EditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/entity/EditionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/AuthorsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/AuthorsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/repositoty/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/AuthorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/AuthorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/AuthorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/AuthorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/java/com/example/springdataintroexercise/services/Interfaces/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/books.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/books.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/categories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/SpringDataIntroExercise/src/main/resources/files/categories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/CommandLineRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/CommandLineRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/config/ApplicationBeenConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/config/ApplicationBeenConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoriesViewRootDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoriesViewRootDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedRootDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategorySeedRootDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoryViewNameDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/dto/CategoryViewNameDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/model/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/reposirtory/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/reposirtory/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/java/com/example/xml/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/cars.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/cars.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/categories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/categories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/customers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/XML/src/main/resources/files/customers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/ormFramework/ApplicationStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/ormFramework/ApplicationStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Column.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/ormFramework/annotation/Column.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/ormFramework/entity/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/ormFramework/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringData/ormFramework/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/ormFramework/entity/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -612,13 +734,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/SoftUni/VaskoNewRepo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/SoftUni/SoftUni/VaskoNewRepo"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="softuni.exam.models.entity" />
@@ -1570,13 +1693,6 @@
       <workItem from="1640291946003" duration="929000" />
       <workItem from="1644265048011" duration="636000" />
     </task>
-    <task id="LOCAL-01079" summary="new homework">
-      <created>1666693770155</created>
-      <option name="number" value="01079" />
-      <option name="presentableId" value="LOCAL-01079" />
-      <option name="project" value="LOCAL" />
-      <updated>1666693770155</updated>
-    </task>
     <task id="LOCAL-01080" summary="new homework">
       <created>1666763391891</created>
       <option name="number" value="01080" />
@@ -1913,7 +2029,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668613571908</updated>
     </task>
-    <option name="localTasksCounter" value="1128" />
+    <task id="LOCAL-01128" summary="new homework">
+      <created>1668682076857</created>
+      <option name="number" value="01128" />
+      <option name="presentableId" value="LOCAL-01128" />
+      <option name="project" value="LOCAL" />
+      <updated>1668682076859</updated>
+    </task>
+    <option name="localTasksCounter" value="1129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
