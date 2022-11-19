@@ -42,6 +42,7 @@
       <module name="pathfinder.test" target="11" />
       <module name="SoftUniGit" target="14" />
       <module name="SpringBootIntroduction" target="11" />
+      <module name="SpringData" target="14" />
       <module name="SpringDataAdvancedQuering" target="16" />
       <module name="SpringDataAdvanceQueringExrcise" target="16" />
       <module name="SpringDataIntro" target="11" />
